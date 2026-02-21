@@ -1,10 +1,6 @@
 {
-  "version": "2.0.0",
-  "download_url": "https://www.dropbox.com/scl/fi/rtohif92q0zqpa5o8s9p4/BandcampPlayer.exe?rlkey=iqzj3rjx9t731d3shrnapfdjw&st=pmxtg9qy&dl=1",
-  "file_size": 0,
-  "release_date": "2026-1-15",
-  "release_url": "https://github.com/kameryn1811/Bandcamp-Player/releases/tag/Launcher_v2.0.0_Beanbagbeni_Edition",
-  "notes": "Update this file when releasing a new launcher.exe. Set release_url to the GitHub release page where users can download the latest .exe manually.",
-  "important": "Change dl=0 to dl=1 in the Dropbox URL for direct download."
+  "version": "3.0.0",
+  "release_date": "2026-02-20",
+  "release_url": "https://github.com/kameryn1811/Bandcamp-Player/releases/tag/Launcher_v3.0.0_Beanbagbeni_Edition",
+  "notes": "Update when releasing a new launcher.exe: set version, release_date, and release_url to the GitHub release page for the new .exe. Create the release tag (e.g. Launcher_v3.0.0) and upload the built exe there."
 }
-

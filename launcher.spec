@@ -1,32 +1,45 @@
 # -*- mode: python ; coding: utf-8 -*-
 """
-PyInstaller spec file for Bandcamp Player Launcher
-This creates a self-contained launcher.exe that bundles Python and can download/update the main script.
+PyInstaller spec file for Bandcamp Player Launcher.
+Builds the exe + _internal (Python and third-party deps only).
+App files (bandcamp_pl_gui.py, modules/, Logo/, Color Scheme/, icon.ico, etc.) are NOT
+bundled here; copy them into the dist root with copy_app_to_dist.py after building.
 """
 
 block_cipher = None
 
+from PyInstaller.utils.hooks import collect_dynamic_libs
+
+# Ensure PyAudioWPatch's PortAudio/WASAPI binaries are bundled for audio-reactive visualizations
+pyaudiowpatch_binaries = []
+try:
+    pyaudiowpatch_binaries = collect_dynamic_libs('pyaudiowpatch')
+except Exception:
+    pyaudiowpatch_binaries = []
+
 a = Analysis(
     ['launcher.py'],
     pathex=[],
-    binaries=[],
-    datas=[
-        ('bandcamp_pl_gui.py', '.'),  # Bundle the script as a fallback (will be updated from GitHub)
-        ('icon.ico', '.'),  # Bundle icon.ico (will be extracted to launcher directory on first run)
-        ('bandcamp_player_hotkeys.ahk', '.'),  # Bundle AutoHotkey script (will be extracted to launcher directory on first run)
-        ('icon-hotkeys.ico', '.'),  # Bundle AutoHotkey icon (will be extracted to launcher directory on first run)
-        ('Logo/bandcamp-button-circle-line-aqua-128.png', 'Logo'),  # Bundle logo (will be extracted to Logo directory on first run)
-    ],
+    binaries=pyaudiowpatch_binaries,
+    # No app datas: app files live in exe root (copied by copy_app_to_dist.py after build).
+    # _internal will contain only Python runtime and third-party dependencies.
+    datas=[],
     hiddenimports=[
         'requests',  # Required for GitHub API calls
         'json',
         'pathlib',
         'subprocess',
         'threading',
+        # Audio-reactive visualizations (WASAPI loopback)
+        'numpy',
+        'pyaudiowpatch',
+        '_portaudiowpatch',
         # Standard library modules used by bandcamp_pl_gui.py
         'webbrowser',
         'tempfile',
         'hashlib',
+        'html',
+        're',
         'ctypes',
         'ctypes.wintypes',
         'urllib.request',
@@ -52,7 +65,6 @@ a = Analysis(
     excludes=[
         # Exclude unnecessary modules to reduce size and scan time
         'matplotlib',
-        'numpy',
         'scipy',
         'pandas',
         'PIL._tkinter_finder',  # Not needed for launcher
@@ -60,6 +72,9 @@ a = Analysis(
         'unittest',
         'pydoc',
         'doctest',
+        'pydoc_data',
+        'lib2to3',
+        'distutils',
         # PyQt6 modules not used by this app (conservative list)
         # Note: QtWebEngine is still bundled (size is dominated by Chromium).
         'PyQt6.QtMultimedia',
@@ -67,6 +82,22 @@ a = Analysis(
         'PyQt6.QtSql',
         'PyQt6.QtTest',
         'PyQt6.QtDesigner',
+        # PyQt6 modules not used (no Bluetooth, positioning, sensors, serial, NFC, Quick/3D, charts)
+        'PyQt6.QtBluetooth',
+        'PyQt6.QtPositioning',
+        'PyQt6.QtSensors',
+        'PyQt6.QtSerialPort',
+        'PyQt6.QtNfc',
+        'PyQt6.QtQuick',
+        'PyQt6.QtQuickWidgets',
+        'PyQt6.Qt3DCore',
+        'PyQt6.Qt3DRender',
+        'PyQt6.Qt3DInput',
+        'PyQt6.Qt3DLogic',
+        'PyQt6.Qt3DExtras',
+        'PyQt6.QtCharts',
+        'PyQt6.QtDataVisualization',
+        'PyQt6.QtScxml',
     ],
     win_no_prefer_redirects=False,
     win_private_assemblies=False,
