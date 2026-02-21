@@ -2,7 +2,7 @@
 
 # <img src="images/icon-title (new).png" width="32" height="32" alt="Icon"> Bandcamp Player (Python Edition)
 
-[![Download](images/download-button.png)](https://github.com/kameryn1811/Bandcamp-Player/releases/tag/Launcher_v2.0.0_Beanbagbeni_Edition)
+[![Download](images/download-button.png)](https://github.com/kameryn1811/Bandcamp-Player/releases/tag/Launcher_v3.0.0_Beanbagbeni_Edition)
 
 </div>
 
@@ -22,8 +22,11 @@ Designed for previewing albums when deciding on new music you want to support. T
 * **Autoplay** - Automatically start playback on launch and when switching albums. 
 * **Shuffle & Repeat** - Multiple playback modes for varied listening.
 * **Volume Control** - Adjustable volume.
-* **Image Viewer** - Click on the magnifying glass in Regular nad Mini mode to aoom and pan artwork and view it fullscreen with player and visualization/particle effects. 
-* **Dark Theme** - Beautiful dark interface that's easy on the eyes.
+* **Image Viewer** - Click on the magnifying glass in any mode to aoom and pan artwork and view it fullscreen, complete with player, playlist and visualization/particle effects. 
+* **App Themes** - Choose from Light, Dark, Album and Custom! Album Mode uses the color from each URLs album page. Custom uses locally stored .css files that you can customize.
+* **Account Menu** - Login to Bandcamp and access Follow Artist and Wishlist Album features directly from the Apps Account Menu! Easily Follow or Wishlist your favorite Artist/Album with this convenient feature.
+* **Track Change Notifications** - Keep track of what you are listening to, especially helpful when the app is hidden via nano modes autohide, or minimized; adjust the notifications or turn them off in the settings. 
+
 
 *The main player interface with compact playlist, regular/mini/micro and nano modes.*
 *Note: Mini mode features optional player autohide so the artwork is fully viewable.*
@@ -55,7 +58,7 @@ As a work around Bandcamp Player loads Bandcamps native player in the backround 
 
 **Installation**
 
-1. Download [BandcampPlayer.zip](https://github.com/kameryn1811/Bandcamp-Player/releases/tag/Launcher_v2.0.0_Beanbagbeni_Edition) extract it and run BandcampPlayer.exe.
+1. Download [BandcampPlayer.zip](https://github.com/kameryn1811/Bandcamp-Player/releases/tag/Launcher_v3.0.0_Beanbagbeni_Edition) extract it and run BandcampPlayer.exe.
 2. **Note:** You may see a Windows Defender SmartScreen Warning, see [Troubleshooting](#troubleshooting) for more information. 
 3. What it Does:
    - Downloads the latest `bandcamp_pl_gui.py` script from GitHub and Launches it
@@ -75,7 +78,7 @@ As a work around Bandcamp Player loads Bandcamps native player in the backround 
 
 ## Image Viewer (Fullscreen Cover Art with player)  
 
-**Image Viewer Button** - Click on the magnifying glass icon in Regular or mini mode to access the image viewer (full screen mode).
+**Image Viewer Button** - Click on the magnifying glass icon over the cover art in any mode to access the image viewer (full screen mode).
 
 <img alt="image viewer button" src="images/Image viewer button.png" /> 
 
@@ -170,6 +173,7 @@ Please respect copyright laws and Bandcamp's terms of service. Support artists b
 ## Disclaimer
 
 This software is provided as-is for educational and personal use. The developers are not responsible for misuse. Please use responsibly and support the artists whose music you enjoy.
+
 
 
 
