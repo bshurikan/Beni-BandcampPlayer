@@ -28,7 +28,7 @@ Designed for easy previewing of new albums and tracks before purchasing from art
 *Note: Mini mode features optional player autohide so the artwork is fully viewable.*
 *Note: Nano mode features optional autohide when docked to the top or bottom of the screen.*
 
-<img alt="main-player-interface" src="images/main-v2.0.0.png" />
+<img width="593" alt="main-player-interface" src="https://github.com/user-attachments/assets/de626387-8e03-4671-b87e-0467597ab48d" />
 
 *The image viewer interface with fullscreen player playlist, visualizer and particles effects available.*
 *Note: Click on magnfying glass icon in regular and mini mode to access the image viewer.*
