@@ -6,7 +6,7 @@
 
 </div>
 
-A compact, fully featured mini player for streaming music directly from Bandcamp on Windows Desktop. 
+A compact, fully featured mini player for streaming music directly from Bandcamp on Windows 10/11.
 
 Designed for easy previewing of new albums and tracks before purchasing from artists you want to support. This player isn’t meant to replace traditional music apps like MusicBee, foobar2000, VLC, etc. but to complement them by making album previews quick and convenient before purchasing and playing the high quality downloads in your favorite music app. Especially when you have a lot of new albums to preview.  
 
