@@ -6,27 +6,23 @@
 
 </div>
 
-A compact, Python-based mini player for streaming music directly from Bandcamp on Windows Desktop. 
+A compact, fully featured mini player for streaming music directly from Bandcamp on Windows Desktop. 
 
-Designed for previewing albums when deciding on new music you want to support. This player isn’t meant to replace traditional music software (Winamp, MusicBee, VLC, etc.), but to complement it by making album previews quick and convenient before purchasing, especially when you have a lot of albums to preview.  
+Designed for easy previewing of new albums and tracks before purchasing from artists you want to support. This player isn’t meant to replace traditional music apps like MusicBee, foobar2000, VLC, etc. but to complement them by making album previews quick and convenient before purchasing and playing the high quality downloads in your favorite music app. Especially when you have a lot of new albums to preview.  
 
 ## Key Features
 
-* **Executable** - Available in .exe format, simply download and run (compatible with Windows 10 and 11).
-* **Automatic Updates** - Select automatic updates or check now to be notified when there is a new update and accept to install it automatically.
-* **Compact Interface** - Minimal design that stays out of your way and 4 modes to suit your style: Regular, Mini, Micro, and/or Nano.
-* **Playlist Management** - Easily create and manage playlists of your favorite Bandcamp albums.
-* **Adjustable Playlist** - Minimize, expand, resize or detach the playlist for flexible window management.
-* **Always on Top** - Keep the player visible while working in other applications.
-* **Keyboard Shortcuts** - Full keyboard control for play, pause, next, previous, volume, and more (customizable in the settings menu). Global keyboard shortcuts available with included `bandcamp_player_hotkeys.ahk` script ([Autohotkey v2 installation](https://www.autohotkey.com/v2/) required)
-* **Autoplay** - Automatically start playback on launch and when switching albums. 
+* **Compact Interface** - Minimal design that stays out of your way with 5 modes to suit your style:
+  * **Regular** > **Mini** > **Micro** (Main window sizes)
+  * Seperate **Nano Player** with docking + autohide (think Winamp); and
+  * **Image Viewer Mode** for fullscreen showcase (great if you have a second monitor). Zoom and pan artwork, view it fullscreen, complete with player, album list, visualization/particle effects.  
+* **Volume Control** - Adjustable volume! 
+* **Album List Management** - Easily create and manage a queue of Albums, or Artist Discographies. Save and Load separate lists. 
 * **Shuffle & Repeat** - Multiple playback modes for varied listening.
-* **Volume Control** - Adjustable volume.
-* **Image Viewer** - Click on the magnifying glass in any mode to aoom and pan artwork and view it fullscreen, complete with player, playlist and visualization/particle effects. 
-* **App Themes** - Choose from Light, Dark, Album and Custom! Album Mode uses the color from each URLs album page. Custom uses locally stored .css files that you can customize.
-* **Account Menu** - Login to Bandcamp and access Follow Artist and Wishlist Album features directly from the Apps Account Menu! Easily Follow or Wishlist your favorite Artist/Album with this convenient feature.
+* **App Themes** - Choose from Light, Dark, Album and Custom! Album Mode uses the color from each URLs album page. Custom uses locally stored .css files that you can customize. Don't like an Albums color scheme? You can prefer your own. 
+* **Account Menu** - Login to Bandcamp to access **Follow Artist** and **Wishlist Album** features directly from the Apps Account Menu and unlock unlimited streaming of albums you've purchased with fancy icon and thank you messages. 
 * **Track Change Notifications** - Keep track of what you are listening to, especially helpful when the app is hidden via nano modes autohide, or minimized; adjust the notifications or turn them off in the settings. 
-
+* **Keyboard Shortcuts** - Full keyboard control for play, pause, next, previous, volume, and more (customizable in the settings menu). Global keyboard shortcuts available with included `bandcamp_player_hotkeys.ahk` script ([Autohotkey v2 installation](https://www.autohotkey.com/v2/) required)
 
 *The main player interface with compact playlist, regular/mini/micro and nano modes.*
 *Note: Mini mode features optional player autohide so the artwork is fully viewable.*
@@ -45,14 +41,14 @@ Designed for previewing albums when deciding on new music you want to support. T
 
 Bandcamp doesn’t provide a public API for music playback, playlists, or track data (its official APIs are limited to sales and merchandise for artists and labels). 
 
-As a work around Bandcamp Player loads Bandcamps native player in the backround and controls it via a Qt interface and DOM manipulation.
+As a work around Beni's Bandcamp Player loads Bandcamps native player in the backround and controls it via a Qt interface and DOM manipulation.
 
 ### Core Stack
 
 - **PyQt6** – Cross-platform desktop framework for window management
-- **PyQt6-WebEngine** – Embedded Chromium browser used to load Bandcamp’s mobile site with full DOM access
+- **PyQt6-WebEngine** – Embedded Chromium browser used to load Bandcamp’s site with full DOM access
 - **Qt-Painted Interface** - Fully customizable Qt interface used for reliability and extensibility
-- **QtAwesome** – FontAwesome icons for consistency acroos platforms
+- **QtAwesome** – FontAwesome icons for consistency across platforms
   
 ## Quick Start
 
@@ -60,21 +56,16 @@ As a work around Bandcamp Player loads Bandcamps native player in the backround 
 
 1. Download [BandcampPlayer.zip](https://github.com/kameryn1811/Bandcamp-Player/releases/tag/Launcher_v3.0.0_Beanbagbeni_Edition) extract it and run BandcampPlayer.exe.
 2. **Note:** You may see a Windows Defender SmartScreen Warning, see [Troubleshooting](#troubleshooting) for more information. 
-3. What it Does:
-   - Downloads the latest `bandcamp_pl_gui.py` script from GitHub and Launches it
-   - Checks for updates on startup
-   - Self-contained - No Python installation needed
-   - All dependencies included
 
 ## Usage
 
-1. **Add URLs**: Drag and drop or Paste Bandcamp URLs into the main window (to load it right away) or into the playlist (to create a queue).
+1. **Add URLs**: Drag and drop Bandcamp URLs into the main window (to load it right away) or into the playlist (to create a queue).
 3. **Play Music**: Double click on an album in the playlist to load the url and start playing.
 4. **Player Controls**: Use the Play controls or keyboard shortcuts to navigate albums and tracks, and adjust play modes (see [Shuffle & Repeat Modes](#shuffle--repeat-modes--)).
-6. **Playlist**: Use the Playlist to manage Bandcamp albums, you can add/remove, reorder, load artist discography, save and load playlists and more. The playlist can act as a sidebar (attached to the main window) or be detached for more felxibility (the detached playlist can be resized, docked to the main window and will remember its state/position)
-7. **Window Modes**: Switch between Regular, Mini, Micro, and Nano modes from the title bar.
-8. **Image Viewer**: Click on the [Magnifying Glass Icon](#image-viewer-fullscreen-cover-art-with-player) in Regular or Mini mode to enter Image viewer - complete with player and effects for a fullscreen experience. 
-10. **Settings Menu**: show the menu from the top right of regular, mini or micro mode and select the settings icon to view several additional settings like Autoplay settings, Update settings, [Keyboard Shortcuts](#keyboard-shortcuts) and More. 
+6. **Album List**: Use the Album List to manage Bandcamp albums, you can add/remove, reorder, load artist discography, save and load Album lists and more. The Album List can act as a sidebar (attached to the main window) or be detached for more felxibility (the detached Album List can be resized, docked to the main window and will remember its state/position)
+7. **Window Modes**: Switch between Regular > Mini > Micro in the main window or to the separate Nano Player from the title bar.
+8. **Image Viewer**: Click on the fullscreen button on the cover art in each mode to enter Image viewer - complete with player, album list and effects for a fullscreen experience. 
+10. **Settings Menu**: Click on the cog icon in each mode to view several additional settings like Updates, Settings, Themes, and more. 
 
 ## Image Viewer (Fullscreen Cover Art with player)  
 
