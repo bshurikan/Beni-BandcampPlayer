@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="images/icon-title (new).png" width="32" height="32" alt="Icon"> Bandcamp Player (Python Edition)
+# <img src="images/icon-title (new).png" width="32" height="32" alt="Icon"> Beni's Bandcamp Player
 
 [![Download](images/download-button.png)](https://github.com/kameryn1811/Bandcamp-Player/releases/tag/Launcher_v3.0.0_Beanbagbeni_Edition)
 
