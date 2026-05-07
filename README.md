@@ -157,7 +157,7 @@ Prior to this project I was using a **custom version of Companion Window** with 
 
 <img alt="main-player-interface" src="images/OGBandcampPlayer.png" />
 
-*Original Bandcamp Player browser extension*
+_Original Bandcamp Player browser extension_
 
 Out of interest here is a screenshot from an early prototype of the current player that displayed the mobile webview directly instead of using a custom interface (an evolution of the original browser extension concept). However it also had a number of limitations and bugs that were difficult to surmout (the live webview could be unpredictable and fail to reliably inject css and js) *The live webview is still presented in the current app when logging in or out and fundamental to the app behind the scenes. 
 
