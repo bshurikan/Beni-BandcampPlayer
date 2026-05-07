@@ -28,7 +28,7 @@ Preview new albums in quick and convenient way before purchasing and playing the
 
 *The main player interface regular/mini/micro and nano modes.*
 
-<img width="593" alt="image-viewer-fullscreen" src="https://github.com/user-attachments/assets/fbbd639d-2a2b-4ac2-a4d2-fbfc9548258f" />
+<img width="593" alt="image-viewer-interface" src="https://github.com/user-attachments/assets/894d6973-7713-46ca-9b26-36cf285eadab" />
 
 *The image viewer interface with fullscreen player, playlist, visualizer and particles effects available.*
 
