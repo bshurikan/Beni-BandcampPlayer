@@ -28,9 +28,11 @@ Preview new albums in a quick and convenient way before purchasing and playing t
 
 *The main player regular/mini/micro/nano modes and notification.*
 
+
 <img width="593" alt="image viewer mode" src="https://github.com/user-attachments/assets/b05a39d4-084c-436c-b3d6-7b5c0bc8bc56" />
 
 *The image viewer interface.*
+
 
 <img width="593" alt="image viewer fullscreen" src="https://github.com/user-attachments/assets/ee3626d5-92ae-4c85-b3cf-6d27eede34ba" />
 
