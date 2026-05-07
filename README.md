@@ -4,7 +4,7 @@
 
 [![Download](images/download-button.png)](https://github.com/bshurikan/Beni-BandcampPlayer)
 
-<a href='https://ko-fi.com/B0B51LWFE' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://github.com/bshurikan/Beni-BandcampPlayer/blob/main/images/support_me_on_kofi_beige.png' border='0' alt='Support me on ko-fi.com' /></a>
+<a href='https://ko-fi.com/B0B51LWFE' target='_new'><img height='36' style='border:0px;height:36px;' src='https://github.com/bshurikan/Beni-BandcampPlayer/blob/main/images/support_me_on_kofi_beige.png' border='0' alt='Support me on ko-fi.com' /></a>
 
 </div>
 
