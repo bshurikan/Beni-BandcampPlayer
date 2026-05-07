@@ -23,9 +23,10 @@ Preview new albums in a quick and convenient way before purchasing and playing t
 
 </div>
 <br>
-<img width="593" alt="main-player-interface" src="https://github.com/user-attachments/assets/b3ce400f-4fe1-46f8-b062-0fd99e995f3b" />
 
-*The main player interface regular/mini/micro and nano modes.*
+<img width="593" alt="main-player-interface" src="https://github.com/user-attachments/assets/f48c31c6-f8a2-4a93-825f-de62e7c23141" />
+
+*The main player regular/mini/micro/nano modes and notification.*
 
 <img width="593" alt="image-viewer-interface" src="https://github.com/user-attachments/assets/894d6973-7713-46ca-9b26-36cf285eadab" />
 
