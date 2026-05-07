@@ -18,9 +18,9 @@
 Preview new albums in quick and convenient way before purchasing and playing the high quality downloads in your favorite music app like MusicBee, foobar2000, VLC, etc. 
 
 <div align="center">
-
+<p>
 [Key Features](#key-features) &nbsp;&middot;&nbsp; [Quick Start](#quick-start) &nbsp;&middot;&nbsp; [Troubleshooting](#troubleshooting) &nbsp;&middot;&nbsp; [Disclaimer](#legal--ethical-use)
-
+</p>
 </div>
 
 <img width="593" alt="main-player-interface" src="https://github.com/user-attachments/assets/b3ce400f-4fe1-46f8-b062-0fd99e995f3b" />
