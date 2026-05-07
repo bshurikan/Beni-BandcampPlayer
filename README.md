@@ -12,8 +12,6 @@
   </a>
 </p>
 
-[Key Features](#features) &nbsp;&middot;&nbsp; [Quick Start](#quick-start) &nbsp;&middot;&nbsp; [Troubleshooting](#troubleshooting) &nbsp;&middot;&nbsp; [Disclaimer](#legal--ethical-use)
-
 </div>
 
 **A compact, fully featured mini player for streaming music directly from Bandcamp on Windows 10/11.**
