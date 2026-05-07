@@ -12,7 +12,7 @@
   </a>
 </p>
 
-**[Download Latest Release](https://github.com/DefinitelyN0tMe/Macronyx/releases/latest)** &nbsp;&middot;&nbsp; [Features](#features) &nbsp;&middot;&nbsp; [Quick Start](#quick-start) &nbsp;&middot;&nbsp; [Roadmap](ROADMAP.md) &nbsp;&middot;&nbsp; [Contributing](#contributing)
+[Key Features](#features) &nbsp;&middot;&nbsp; [Quick Start](#quick-start) &nbsp;&middot;&nbsp; [Troubleshooting](#troubleshooting) &nbsp;&middot;&nbsp; [Disclaimer](#legal--ethical-use)
 
 </div>
 
