@@ -16,7 +16,7 @@
 
 **A compact, fully featured mini player for streaming music directly from Bandcamp on Windows 10/11.**
 
-Designed for easy previewing of new albums and tracks before purchasing from artists you want to support. This player isn’t meant to replace traditional music apps like MusicBee, foobar2000, VLC, etc. but to complement them by making album previews quick and convenient before purchasing and playing the high quality downloads in your favorite music app. Especially when you have a lot of new albums to preview.  
+Preview new albums in quick and convenient way before purchasing and playing the high quality downloads in your favorite music app like MusicBee, foobar2000, VLC, etc. 
 
 <div align="center">
 
@@ -26,30 +26,34 @@ Designed for easy previewing of new albums and tracks before purchasing from art
 
 ## Key Features
 
-* **Compact Interface** - Minimal design that stays out of your way with 5 modes to suit your style:
-  * **Regular** > **Mini** > **Micro** (Main window sizes)
-  * Seperate **Nano Player** with docking + autohide (think Winamp); and
-  * **Image Viewer Mode** for fullscreen showcase (great if you have a second monitor). Zoom and pan artwork, view it fullscreen, complete with player, album list, visualization/particle effects.  
-* **Volume Control** - Adjustable volume! 
-* **Album List Management** - Easily create and manage a queue of Albums, or Artist Discographies. Save and Load separate lists. 
+* **Minimal design** - that stays out of your way with 3 modes to suit your style:
+  * **Regular Mode** - main window that can be rolled up into Mini or Micro modes to save screen space.
+  * **Nano Mode** - An ultra-compact dockable player that can snap to the top or bottom of your screen and auto-hide (à la Winamp); and
+  * **Image Viewer Mode** - a lightbox-style showcase (great if you have a second monitor). Zoom and pan artwork, go fullscreen, and enjoy visualization/particle effects.  
+* **Volume Control** - Adjustable volume! Nuff said.  
+* **Playlist Management** - Easily create and manage URLs and Save/Load separate lists.
+* **Import URLs** - Easily Load Artist Discographies, Similar Artist or Import Collections. 
 * **Shuffle & Repeat** - Multiple playback modes for varied listening.
-* **App Themes** - Choose from Light, Dark, Album and Custom! Album Mode uses the color from each URLs album page. Custom uses locally stored .css files that you can customize. Don't like an Albums color scheme? You can prefer your own. 
+* **App Themes** - Choose from Light, Dark, Album or Custom!
+  * **Album Themes** - loads color palette from each URL for a unique look that matches the artists intent. Palettes can be saved and edited - with a Prefer Saved option to override the default palette! 
+  * **Custom Themes** - Save an album theme you like or create your own with built in Theme editor!
 * **Account Menu** - Login to Bandcamp to access **Follow Artist** and **Wishlist Album** features directly from the Apps Account Menu and unlock unlimited streaming of albums you've purchased with fancy icon and thank you messages. 
-* **Track Change Notifications** - Keep track of what you are listening to, especially helpful when the app is hidden via nano modes autohide, or minimized; adjust the notifications or turn them off in the settings. 
-* **Keyboard Shortcuts** - Full keyboard control for play, pause, next, previous, volume, and more (customizable in the settings menu). Global keyboard shortcuts available with included `bandcamp_player_hotkeys.ahk` script ([Autohotkey v2 installation](https://www.autohotkey.com/v2/) required)
+* **Track Change Notifications** - Keep track of what you are listening to, especially helpful in Nano Mode when autohidden; adjust the notifications or turn them off in the settings. 
+* **Keyboard Shortcuts** - Full keyboard control for play, pause, next, previous, volume, and more (customizable in the settings menu). With Global Support. 
 
 *The main player interface with compact playlist, regular/mini/micro and nano modes.*
 *Note: Mini mode features optional player autohide so the artwork is fully viewable.*
 *Note: Nano mode features optional autohide when docked to the top or bottom of the screen.*
 
-<img width="593" alt="main-player-interface" src="https://github.com/user-attachments/assets/de626387-8e03-4671-b87e-0467597ab48d" />
+<img width="593" alt="main-player-interface" src="https://github.com/user-attachments/assets/b3ce400f-4fe1-46f8-b062-0fd99e995f3b" />
+
 
 *The image viewer interface with fullscreen player playlist, visualizer and particles effects available.*
 *Note: Click on magnfying glass icon in regular and mini mode to access the image viewer.*
 
-<img width="720" alt="image-viewer-interface" src="images/image-viewer-v2.0.0.png" />
+<img width="720" alt="image-viewer-interface" src="https://github.com/user-attachments/assets/a541c6a8-0eb5-44e6-89e7-7192859b220a" />
 
-
+<img width="720" alt="image-viewer-fullscreen" src="https://github.com/user-attachments/assets/fbbd639d-2a2b-4ac2-a4d2-fbfc9548258f" />
 
 ## Technology & Approach
 
@@ -73,10 +77,10 @@ As a work around Beni's Bandcamp Player loads Bandcamps native player in the bac
 
 ## Usage
 
-1. **Add URLs**: Drag and drop Bandcamp URLs into the main window (to load it right away) or into the playlist (to create a queue).
+1. **Add URLs**: Drag and drop Bandcamp URLs into the main window (to load it right away) or into the playlist to create a queue (CTRL+V, Right click and select Paste URL also work).
 3. **Play Music**: Double click on an album in the playlist to load the url and start playing.
 4. **Player Controls**: Use the Play controls or keyboard shortcuts to navigate albums and tracks, and adjust play modes (see [Shuffle & Repeat Modes](#shuffle--repeat-modes--)).
-6. **Album List**: Use the Album List to manage Bandcamp albums, you can add/remove, reorder, load artist discography, save and load Album lists and more. The Album List can act as a sidebar (attached to the main window) or be detached for more felxibility (the detached Album List can be resized, docked to the main window and will remember its state/position)
+6. **Album List**: Use the Album List to manage Bandcamp URL's, you can add/remove, reorder, load artist discography, save and load Album lists and more. The Album List can act as a sidebar (attached to the main window) or be detached for more felxibility (the detached Album List can be resized, docked to the main window and will remember its state/position)
 7. **Window Modes**: Switch between Regular > Mini > Micro in the main window or to the separate Nano Player from the title bar.
 8. **Image Viewer**: Click on the fullscreen button on the cover art in each mode to enter Image viewer - complete with player, album list and effects for a fullscreen experience. 
 10. **Settings Menu**: Click on the cog icon in each mode to view several additional settings like Updates, Settings, Themes, and more. 
