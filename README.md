@@ -125,7 +125,7 @@ As a work around Beni's Bandcamp Player loads Bandcamps native player in the bac
 - This app has now received a decent amount of testing so it should be pretty stable but you may still encounter bugs, please feel free to report any issues or suggestions. Issues can usually be resolved by loading another url, restarting the app, or if you're really stuck renaming or deleting settings.json and it's Backup folder, and/or the Playlists folder. 
 
 **Windows SmartScreen Warning**
-- When you open BandcampPlayer.exe for the first time, Windows might say: "Windows protected your PC"
+- When you open the app for the first time, Windows might say: "Windows protected your PC"
 - This happens because the app isn't code-signed (certificates are pricey, and this is a free open-source project).
 - No worries, it's safe to run. The EXE is the same code you can read on GitHub.
 - **To continue:** Click "More info" and "Run anyway", Windows won't nag you again for the same .exe. 
