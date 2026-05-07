@@ -3,11 +3,11 @@
 # <img src="images/icon-title (new).png" width="32" height="32" alt="Icon"> Beni's Bandcamp Player
 
 <p align="center">
-  <a href="https://github.com/bshurikan/Beni-BandcampPlayer">
+  <a href="https://github.com/bshurikan/Beni-BandcampPlayer" style="text-decoration:none;">
     <img src="images/download-button.png" alt="Download" height="39">
   </a>
 
-  <a href="https://ko-fi.com/B0B51LWFE" target="_blank">
+  <a href="https://ko-fi.com/B0B51LWFE" target="_blank" style="text-decoration:none;">
     <img src="images/support_me_on_kofi_beige.png" alt="Support me on Ko-fi" height="39">
   </a>
 </p>
