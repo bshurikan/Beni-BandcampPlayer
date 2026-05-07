@@ -15,7 +15,7 @@
 
 **A compact, fully featured mini player for streaming music directly from Bandcamp on Windows 10/11.**
 
-Preview new Bandcamp releases in a quick and convenient way before purchasing (and playing high quality downloads in your favorite music app like MusicBee, foobar2000, VLC, etc). 
+Preview new Bandcamp releases in a quick and convenient way before you buy (Note: This app uses Bandcamp’s free 128kbps streams — support artists to get full-quality downloads for your favorite music player like MusicBee, foobar2000, VLC, etc). 
 
 <div align="center">
 
