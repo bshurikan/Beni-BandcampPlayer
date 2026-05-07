@@ -20,7 +20,7 @@ Preview new albums in quick and convenient way before purchasing and playing the
 
 <div align="center">
 
-[Key Features](#features) &nbsp;&middot;&nbsp; [Quick Start](#quick-start) &nbsp;&middot;&nbsp; [Troubleshooting](#troubleshooting) &nbsp;&middot;&nbsp; [Disclaimer](#legal--ethical-use)
+[Key Features](#key-features) &nbsp;&middot;&nbsp; [Quick Start](#quick-start) &nbsp;&middot;&nbsp; [Troubleshooting](#troubleshooting) &nbsp;&middot;&nbsp; [Disclaimer](#legal--ethical-use)
 
 </div>
 
