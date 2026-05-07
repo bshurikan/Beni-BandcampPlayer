@@ -2,14 +2,13 @@
 
 # <img src="images/icon-title (new).png" width="32" height="32" alt="Icon"> Beni's Bandcamp Player
 
-<p align="center">
+
   <a href="https://github.com/bshurikan/Beni-BandcampPlayer">
     <img src="images/download-button.png" height="39">
   </a>
   <a href="https://ko-fi.com/B0B51LWFE" target="_blank">
     <img src="images/support_me_on_kofi_beige.png" height="39">
   </a>
-</p>
 
 </div>
 
