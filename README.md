@@ -22,7 +22,7 @@ Preview new albums in quick and convenient way before purchasing and playing the
 [Key Features](#key-features) &nbsp;&middot;&nbsp; [Quick Start](#quick-start) &nbsp;&middot;&nbsp; [Troubleshooting](#troubleshooting) &nbsp;&middot;&nbsp; [Disclaimer](#legal--ethical-use)
 
 </div>
-
+<br>
 <img width="593" alt="main-player-interface" src="https://github.com/user-attachments/assets/b3ce400f-4fe1-46f8-b062-0fd99e995f3b" />
 
 *The main player interface regular/mini/micro and nano modes.*
