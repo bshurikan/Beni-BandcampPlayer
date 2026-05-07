@@ -156,8 +156,9 @@ This project was inspired by [Robert Golderbine's Companion Window | Always on T
 Prior to this project I was using a **custom version of Companion Window** with **Mobile View Switcher** as a Mini BandCamp Player (It featured a compact bandcamp mode that stripped away everything but the player and playlist, and had roll up feature like the current app - but had to be launched separately for each album and had many security limitations inherent in browser PIP implementations preventing automations e.g. automatic resizing, playback manipulation, playlists+ which are made possible in this python project.
 
 <img alt="main-player-interface" src="images/OGBandcampPlayer.png" />
+
 *Original Bandcamp Player using a custom version of Companion Window with Mobile View Switcher*
-<br>
+
 Out of interest here is a screenshot from an early prototype of the current player that displayed the mobile webview directly instead of using a custom interface (an evolution of the original browser extension concept). However it also had a number of limitations and bugs that were difficult to surmout (the live webview could be unpredictable and fail to reliably inject css and js) *The live webview is still presented in the current app when logging in or out and fundamental to the app behind the scenes. 
 
 <img width="560" alt="Early Prototype" src="https://github.com/user-attachments/assets/f37a89ad-e3cb-4de0-8e61-9d53db7458b3" />
