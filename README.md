@@ -77,17 +77,13 @@ As a work around Beni's Bandcamp Player loads Bandcamps native player in the bac
 3. **Play Music**: Double click on an album in the playlist to load the url and start playing.
 4. **Player Controls**: Use the Play controls or keyboard shortcuts to navigate albums and tracks, and adjust play modes (see [Shuffle & Repeat Modes](#shuffle--repeat-modes--)).
 6. **Album List**: Use the Album List to manage Bandcamp URL's, you can add/remove, reorder, load artist discography, save and load Album lists and more. The Album List can act as a sidebar (attached to the main window) or be detached for more felxibility (the detached Album List can be resized, docked to the main window and will remember its state/position)
-7. **Window Modes**: Switch between Regular > Mini > Micro in the main window or to the separate Nano Player from the title bar.
-8. **Image Viewer**: Click on the fullscreen button on the cover art in each mode to enter Image viewer - complete with player, album list and effects for a fullscreen experience. 
-10. **Settings Menu**: Click on the cog icon in each mode to view several additional settings like Updates, Settings, Themes, and more. 
+7. **Window Modes**: Roll up the main window into in to Mini or Micro using the upward chevron or minimize to the separate Nano Player from the title bar.
+8. **Image Viewer**: Click on the fullscreen button to enter Image viewer.
+10. **Settings Menu**: Click on the cog icon to view several additional settings like Updates, Settings, Themes, and more. 
 
 ## Image Viewer (Fullscreen Cover Art with player)  
 
-**Image Viewer Button** - Click on the magnifying glass icon over the cover art in any mode to access the image viewer (full screen mode).
-
-<img alt="image viewer button" src="images/Image viewer button.png" /> 
-
-**Image Viewer Player Options** - Options to toggle player autohide, visualization, particle effects and more. (Note: Visualizations currently use simulated audio analysis (fake) since I haven't succeeded in analyzing the streamed audio in realtime yet)
+**Image Viewer Player Options** - Options to toggle player autohide, visualization, particle effects and more. (Note: Visualizations currently use simulated audio analysis (fake) since I haven't succeeded in analyzing the streamed audio in realtime yet despite several attempts)
 
 <img alt="image viewer button" src="images/vis-menu.png" /> 
 
@@ -104,7 +100,6 @@ As a work around Beni's Bandcamp Player loads Bandcamps native player in the bac
 
 ## Keyboard Shortcuts
 
-* **Space** - Play/Pause
 * **Play/Pause** - Ctrl + Alt + Space
 * **Next Track** - Ctrl + Alt + Right
 * **Previous Track** - Ctrl + Alt + Left
@@ -116,15 +111,13 @@ As a work around Beni's Bandcamp Player loads Bandcamps native player in the bac
 * **Toggle Playlist** - Ctrl + Alt + P
 * **Expand/Collapse Playlist** - Ctrl + Shift + Alt + P
 * **Cycle App Mode** - Ctrl + Alt + M
-* **Save Playlist** - Ctrl + S
 * And more... (see Settings > Keyboard Shortcuts)
-* Note: Global keyboard shortcuts require ([Autohotkey v2](https://www.autohotkey.com/v2/) to be installed and the included `bandcamp_player_hotkeys.ahk` script to be running. 
 
 ## Troubleshooting
 
 **Please Note**
 - Documentation is still improving
-- This should be a stable release but you may encounter bugs, please feel free to report any issues or suggestions. Issues can usually be resolved by loading another url, restarting the app, and if you're stuck rename or delete settings.json and/or Playlists folder to do a factory reset.
+- This app has now received a decent amount of testing so it should be pretty stable but you may still encounter bugs, please feel free to report any issues or suggestions. Issues can usually be resolved by loading another url, restarting the app, or if you're really stuck renaming or deleting settings.json and it's Backup folder, and/or the Playlists folder. 
 
 **Windows SmartScreen Warning**
 - When you open BandcampPlayer.exe for the first time, Windows might say: "Windows protected your PC"
@@ -144,19 +137,15 @@ As a work around Beni's Bandcamp Player loads Bandcamps native player in the bac
 
 **"Player not responding or sluggish"**
 - Check your internet connection
-- Verify the Bandcamp URL is valid and accessible
-- Try refreshing the page
-- VPNs, proxies, or ISP “secure connection” features can block or slow the CDN requests used to fetch artwork and metadata. Try turning these off or switching to a faster VPN location.
-- Antivirus software with HTTPS/SSL scanning (Kaspersky, ESET, Dr.Web, etc.) may interfere with image requests — temporarily disable these features to test.If it helps, whitelist BandcampDownloader.exe and bandcamp.com.
+- Verify the Bandcamp URL is valid and accessible (sometimes artists remove access to an album or redirect it), check the album page to make sure its still there, remove the url and readd it. 
+- Try refreshing the URL or switching to another URL. 
+- VPNs, proxies, or ISP “secure connection” features can block or slow the CDN requests used to fetch artwork and metadata. Try turning these off or switching to a faster VPN location or Split tunnel and exclude the app. 
+- Antivirus software with HTTPS/SSL scanning (Kaspersky, ESET, Dr.Web, etc.) may interfere with image requests — temporarily disable these features to test. If it helps, whitelist the app and bandcamp.com.
 - Bad DNS routing can also cause slow or missing images. Switching to 1.1.1.1, 8.8.8.8, or 9.9.9.9 may help.
 
 **"Playlist not saving"**
 - Check that the Playlists folder exists in the app directory
 - Verify write permissions for the app directory
-
-**Global Keyboard Shortcuts not working**
-- Global keyboard shortcuts require ([Autohotkey v2](https://www.autohotkey.com/v2/) to be installed and the included `bandcamp_player_hotkeys.ahk` script to be running. 
-- Try restarting the application
 
 ## Credits & Inspiration
 
