@@ -25,15 +25,15 @@ Preview new albums in a quick and convenient way before purchasing and playing t
 <br>
 
 <img width="593" alt="main-player-interface" src="https://github.com/user-attachments/assets/f48c31c6-f8a2-4a93-825f-de62e7c23141" />
-
+<br>
 *The main player regular/mini/micro/nano modes and notification.*
 
 <img width="593" alt="image viewer mode" src="https://github.com/user-attachments/assets/b05a39d4-084c-436c-b3d6-7b5c0bc8bc56" />
-
+<br>
 *The image viewer interface.*
 
 <img width="593" alt="image viewer fullscreen" src="https://github.com/user-attachments/assets/ee3626d5-92ae-4c85-b3cf-6d27eede34ba" />
-
+<br>
 *The image viewer interface in fullscreen mode with player, playlist, visualizer and particles effects available.*
 
 ## Key Features
@@ -157,11 +157,11 @@ Prior to this project I was using a **custom version of Companion Window** with 
 
 <img alt="main-player-interface" src="images/OGBandcampPlayer.png" />
 *Original Bandcamp Player using a custom version of Companion Window with Mobile View Switcher*
-
+<br>
 Out of interest here is a screenshot from an early prototype of the current player that displayed the mobile webview directly instead of using a custom interface (an evolution of the original browser extension concept). However it also had a number of limitations and bugs that were difficult to surmout (the live webview could be unpredictable and fail to reliably inject css and js) *The live webview is still presented in the current app when logging in or out and fundamental to the app behind the scenes. 
 
 <img width="560" alt="Early Prototype" src="https://github.com/user-attachments/assets/f37a89ad-e3cb-4de0-8e61-9d53db7458b3" />
-
+<br>
 *Early Protype that presented the bandcamp mobile webview directly*
 
 
