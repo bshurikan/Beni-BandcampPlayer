@@ -2,7 +2,7 @@
 
 # <img src="images/icon-title (new).png" width="32" height="32" alt="Icon"> Beni's Bandcamp Player
 
-<table align="center" style="border-collapse: collapse; border: none;">
+<table align="center" style="border-collapse: collapse; border: none; padding: 0;">
   <tr>
     <td style="border: none;">
       <a href="https://github.com/bshurikan/Beni-BandcampPlayer">
