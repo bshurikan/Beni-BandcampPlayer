@@ -2,10 +2,6 @@
 
 # <img src="images/icon-title (new).png" width="32" height="32" alt="Icon"> Beni's Bandcamp Player
 
-[![Download](images/download-button.png)](https://github.com/bshurikan/Beni-BandcampPlayer)
-
-<a href='https://ko-fi.com/B0B51LWFE' target='_new'><img height='36' style='border:0px;height:36px;' src='https://github.com/bshurikan/Beni-BandcampPlayer/blob/main/images/support_me_on_kofi_beige.png' border='0' alt='Support me on ko-fi.com' /></a>
-
 <p align="center">
   <a href="https://github.com/bshurikan/Beni-BandcampPlayer">
     <img src="images/download-button.png" alt="Download" height="36">
