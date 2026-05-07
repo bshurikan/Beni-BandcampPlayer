@@ -6,9 +6,22 @@
 
 <a href='https://ko-fi.com/B0B51LWFE' target='_new'><img height='36' style='border:0px;height:36px;' src='https://github.com/bshurikan/Beni-BandcampPlayer/blob/main/images/support_me_on_kofi_beige.png' border='0' alt='Support me on ko-fi.com' /></a>
 
+<p align="center">
+  <a href="https://github.com/bshurikan/Beni-BandcampPlayer">
+    <img src="images/download-button.png" alt="Download" height="36">
+  </a>
+
+  <a href="https://ko-fi.com/B0B51LWFE" target="_blank">
+    <img src="images/support_me_on_kofi_beige.png" alt="Support me on Ko-fi" height="36">
+  </a>
+</p>
+
+**[Download Latest Release](https://github.com/DefinitelyN0tMe/Macronyx/releases/latest)** &nbsp;&middot;&nbsp; [Features](#features) &nbsp;&middot;&nbsp; [Quick Start](#quick-start) &nbsp;&middot;&nbsp; [Roadmap](ROADMAP.md) &nbsp;&middot;&nbsp; [Contributing](#contributing)
+
 </div>
 
-A compact, fully featured mini player for streaming music directly from Bandcamp on Windows 10/11.
+
+**A compact, fully featured mini player for streaming music directly from Bandcamp on Windows 10/11.**
 
 Designed for easy previewing of new albums and tracks before purchasing from artists you want to support. This player isn’t meant to replace traditional music apps like MusicBee, foobar2000, VLC, etc. but to complement them by making album previews quick and convenient before purchasing and playing the high quality downloads in your favorite music app. Especially when you have a lot of new albums to preview.  
 
