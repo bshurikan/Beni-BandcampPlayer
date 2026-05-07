@@ -2,9 +2,9 @@
 
 # <img src="images/icon-title (new).png" width="32" height="32" alt="Icon"> Beni's Bandcamp Player
 
-[![Download](images/download-button.png)](https://github.com/kameryn1811/Bandcamp-Player/releases/tag/Launcher_v3.0.0_Beanbagbeni_Edition)
+[![Download](images/download-button.png)](https://github.com/bshurikan/Beni-BandcampPlayer)
 
-<a href='https://ko-fi.com/B0B51LWFE' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/B0B51LWFE' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://github.com/bshurikan/Beni-BandcampPlayer/blob/main/images/support_me_on_kofi_beige.png' border='0' alt='Support me on ko-fi.com' /></a>
 
 </div>
 
