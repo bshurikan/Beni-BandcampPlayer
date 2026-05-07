@@ -2,20 +2,14 @@
 
 # <img src="images/icon-title (new).png" width="32" height="32" alt="Icon"> Beni's Bandcamp Player
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="border: none; padding: 0;">
-      <a href="https://github.com/bshurikan/Beni-BandcampPlayer" style="display: inline-block;">
-        <img src="images/download-button.png" alt="Download" height="39" style="display:block;">
-      </a>
-    </td>
-    <td style="border: none; padding: 0;">
-      <a href="https://ko-fi.com/B0B51LWFE" target="_blank" style="display: inline-block;">
-        <img src="images/support_me_on_kofi_beige.png" alt="Support me on Ko-fi" height="39" style="display:block;">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/bshurikan/Beni-BandcampPlayer">
+    <img src="images/download-button.png" height="39">
+  </a>
+  <a href="https://ko-fi.com/B0B51LWFE" target="_blank">
+    <img src="images/support_me_on_kofi_beige.png" height="39">
+  </a>
+</p>
 
 </div>
 
