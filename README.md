@@ -27,8 +27,6 @@ Preview new albums in quick and convenient way before purchasing and playing the
 <img width="593" alt="main-player-interface" src="https://github.com/user-attachments/assets/b3ce400f-4fe1-46f8-b062-0fd99e995f3b" />
 
 *The main player interface regular/mini/micro and nano modes.*
-*Note: Mini mode features optional player autohide so the artwork is fully viewable.*
-*Note: Nano mode features optional autohide and sliver when docked to the top or bottom of the screen.*
 
 <img width="593" alt="image-viewer-fullscreen" src="https://github.com/user-attachments/assets/fbbd639d-2a2b-4ac2-a4d2-fbfc9548258f" />
 
