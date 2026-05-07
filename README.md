@@ -34,6 +34,7 @@ Preview new albums in a quick and convenient way before purchasing and playing t
 
 <img width="593" alt="image viewer fullscreen" src="https://github.com/user-attachments/assets/ee3626d5-92ae-4c85-b3cf-6d27eede34ba" />
 
+
 *The image viewer interface in fullscreen mode with player, playlist, visualizer and particles effects available.*
 
 ## Key Features
