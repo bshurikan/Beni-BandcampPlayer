@@ -24,6 +24,16 @@ Preview new albums in quick and convenient way before purchasing and playing the
 
 </div>
 
+*The main player interface regular/mini/micro and nano modes.*
+*Note: Mini mode features optional player autohide so the artwork is fully viewable.*
+*Note: Nano mode features optional autohide and sliver when docked to the top or bottom of the screen.*
+
+<img width="593" alt="main-player-interface" src="https://github.com/user-attachments/assets/b3ce400f-4fe1-46f8-b062-0fd99e995f3b" />
+
+*The image viewer interface with fullscreen player, playlist, visualizer and particles effects available.*
+
+<img width="593" alt="image-viewer-fullscreen" src="https://github.com/user-attachments/assets/fbbd639d-2a2b-4ac2-a4d2-fbfc9548258f" />
+
 ## Key Features
 
 * **Minimal design** - that stays out of your way with 3 modes to suit your style:
@@ -40,16 +50,6 @@ Preview new albums in quick and convenient way before purchasing and playing the
 * **Account Menu** - Login to Bandcamp to access **Follow Artist** and **Wishlist Album** features directly from the Apps Account Menu and unlock unlimited streaming of albums you've purchased with fancy icon and thank you messages. 
 * **Track Change Notifications** - Keep track of what you are listening to, especially helpful in Nano Mode when autohidden; adjust the notifications or turn them off in the settings. 
 * **Keyboard Shortcuts** - Full keyboard control for play, pause, next, previous, volume, and more (customizable in the settings menu). With Global Support. 
-
-*The main player interface regular/mini/micro and nano modes.*
-*Note: Mini mode features optional player autohide so the artwork is fully viewable.*
-*Note: Nano mode features optional autohide and sliver when docked to the top or bottom of the screen.*
-
-<img width="593" alt="main-player-interface" src="https://github.com/user-attachments/assets/b3ce400f-4fe1-46f8-b062-0fd99e995f3b" />
-
-*The image viewer interface with fullscreen player, playlist, visualizer and particles effects available.*
-
-<img width="593" alt="image-viewer-fullscreen" src="https://github.com/user-attachments/assets/fbbd639d-2a2b-4ac2-a4d2-fbfc9548258f" />
 
 ## Technology & Approach
 
