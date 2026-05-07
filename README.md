@@ -153,9 +153,16 @@ As a work around Beni's Bandcamp Player loads Bandcamps native player in the bac
 
 This project was inspired by [Robert Golderbine's Companion Window | Always on Top](https://chromewebstore.google.com/detail/companion-window-always-o/hhneckfekhpegclkfhefepcjmcnmnpae) and [Yuki Eliot's Mobile View Switcher](https://chromewebstore.google.com/detail/mobile-view-switcher/ddfcjnekgmblacbpifjdmcbbhfcdekic). Prior to this project I was using a modified version of these Browser Extenstions to achieve a Mini BandCamp Player (It featured a compact bandcamp mode that stripped away everything but the player and playlist, and had 3 view modes - but needed to be launched for each album individually and sadly had many security limitations inherent in browser PIP implementations preventing automations e.g. automatic resizing of the player and playback manipulation which are made possible in this python project.
 
-*Original Bandcamp Player using a modified version of Companion Window in combination with Mobile View Switcher:*
-
 <img alt="main-player-interface" src="images/OGBandcampPlayer.png" />
+
+*Original Bandcamp Player using a modified version of Companion Window in combination with Mobile View Switcher*
+
+Out of interest here is a screenshot from an early prototype of the current player that displayed the mobile webview directly instead of using custom interface (an evolution of the original browser extension concept). However it also had a number of limitations and bugs that were difficult to surmout (the live webview could be unpredictable and fail to reliably inject css and js) *The live webview is still presented in the current app when logging in or out and fundamental to the app behind the scenes. 
+
+<img width="560" height="711" alt="main-v1 0 0 2" src="https://github.com/user-attachments/assets/f37a89ad-e3cb-4de0-8e61-9d53db7458b3" />
+
+*Early Protype that presented the bandcamp mobile webview directly*
+
 
 ## Legal & Ethical Use
 
