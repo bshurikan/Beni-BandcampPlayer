@@ -41,19 +41,19 @@ Preview new albums in quick and convenient way before purchasing and playing the
 * **Track Change Notifications** - Keep track of what you are listening to, especially helpful in Nano Mode when autohidden; adjust the notifications or turn them off in the settings. 
 * **Keyboard Shortcuts** - Full keyboard control for play, pause, next, previous, volume, and more (customizable in the settings menu). With Global Support. 
 
-*The main player interface with compact playlist, regular/mini/micro and nano modes.*
+*The main player interface regular/mini/micro and nano modes.*
 *Note: Mini mode features optional player autohide so the artwork is fully viewable.*
-*Note: Nano mode features optional autohide when docked to the top or bottom of the screen.*
+*Note: Nano mode features optional autohide and sliver when docked to the top or bottom of the screen.*
 
 <img width="593" alt="main-player-interface" src="https://github.com/user-attachments/assets/b3ce400f-4fe1-46f8-b062-0fd99e995f3b" />
 
+*The image viewer interface with fullscreen player, playlist, visualizer and particles effects available.*
 
-*The image viewer interface with fullscreen player playlist, visualizer and particles effects available.*
-*Note: Click on magnfying glass icon in regular and mini mode to access the image viewer.*
+<img width="593" alt="image-viewer-interface" src="https://github.com/user-attachments/assets/a541c6a8-0eb5-44e6-89e7-7192859b220a" />
 
-<img width="720" alt="image-viewer-interface" src="https://github.com/user-attachments/assets/a541c6a8-0eb5-44e6-89e7-7192859b220a" />
+*Image viewer in fullscreen portrait mode*
 
-<img width="720" alt="image-viewer-fullscreen" src="https://github.com/user-attachments/assets/fbbd639d-2a2b-4ac2-a4d2-fbfc9548258f" />
+<img width="593" alt="image-viewer-fullscreen" src="https://github.com/user-attachments/assets/fbbd639d-2a2b-4ac2-a4d2-fbfc9548258f" />
 
 ## Technology & Approach
 
