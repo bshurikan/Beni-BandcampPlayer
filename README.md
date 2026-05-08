@@ -83,7 +83,7 @@ As a work around Beni's Bandcamp Player loads Bandcamps native player in the bac
 
 ## Image Viewer (Fullscreen Cover Art with player)  
 
-**Image Viewer Player Options** - Options to toggle player autohide, visualization, particle effects and more. (Note: Visualizations currently use simulated audio analysis (fake) since I haven't succeeded in reliably analyzing the streamed audio in realtime)
+**Image Viewer Options** - toggle player autohide, visualizations, particle effects and more. (Note: Visualizations are currently simulated)
 
 <img alt="image viewer button" src="images/vis-menu.png" /> 
 
