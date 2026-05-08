@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="images/icon-title (new).png" width="32" height="32" alt="Icon"> Beni's Bandcamp Player
+# <a href="https://github.com/bshurikan/Beni-BandcampPlayer"><img src="images/icon-title (new).png" width="32" height="32" alt="Icon"></a> Beni's Bandcamp Player
 
 <p><a href="https://github.com/bshurikan/Beni-BandcampPlayer"><img src="images/download.png" height="39"></a>
   <a href="https://ko-fi.com/B0B51LWFE" target="_blank"><img src="images/support_me_on_kofi_beige.png" height="39"></a>
