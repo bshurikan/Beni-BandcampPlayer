@@ -2,17 +2,17 @@
 
 # <a href="https://github.com/bshurikan/Beni-BandcampPlayer"><img src="images/icon-title (new).png" width="32" height="32" alt="Icon"></a> Beni's Bandcamp Player
 
+</div>
+
+**Compact, Fully featured Bandcamp Streaming App for Windows 10/11.**
+
+Preview Bandcamp releases quickly and conveniently before purchasing (This app plays Bandcamp’s free 128kbps streams - support the artists to get full-quality downloads for your favorite music player like MusicBee, foobar2000, VLC, etc).
+
+<div align="center">
+
 <p><a href="https://github.com/bshurikan/Beni-BandcampPlayer"><img src="images/download.png" height="39"></a>
   <a href="https://ko-fi.com/B0B51LWFE" target="_blank"><img src="images/support_me_on_kofi_beige.png" height="39"></a>
 </p>
-
-</div>
-
-**Compact, fully featured mini player for streaming music directly from Bandcamp on Windows 10/11.**
-
-Preview Bandcamp releases in a quick and convenient way before purchasing (This app uses Bandcamp’s free 128kbps streams - support the artists to get full-quality downloads for your favorite music player like MusicBee, foobar2000, VLC, etc).
-
-<div align="center">
 
 [Key Features](#key-features) &nbsp;&middot;&nbsp; [Quick Start](#quick-start) &nbsp;&middot;&nbsp; [Troubleshooting](#troubleshooting) &nbsp;&middot;&nbsp; [Disclaimer](#legal--ethical-use)
 
