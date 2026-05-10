@@ -1,0 +1,8 @@
+{
+  "version": "4.0.1",
+  "release_date": "2026-04-18",
+  "release_url": "https://github.com/bshurikan/Beni-BandcampPlayer/releases/tag/Launcher_v3.0.0_Beanbagbeni_Edition",
+  "update_package_url": "https://github.com/bshurikan/Beni-BandcampPlayer/blob/main/update-test.zip",
+  "update_package_sha256": "",
+  "notes": "Update when releasing: set version, release_date, release_url. For in-app delta updates (frozen install): set update_package_url to the direct download URL of the update .zip on the GitHub release, and update_package_sha256 (hex) so the helper can verify the download. Leave update_package_url empty to only offer the release page."
+}
