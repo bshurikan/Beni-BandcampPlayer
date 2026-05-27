@@ -4,5 +4,16 @@
   "release_url": "https://github.com/bshurikan/Beni-BandcampPlayer/releases/tag/Test",
   "update_package_url": "https://github.com/bshurikan/Beni-BandcampPlayer/releases/download/Test/update-test.zip",
   "update_package_sha256": "",
-  "notes": "Updated: - Installer now allows custom install location but is greyed out by default and has warning - Image viewer particle effects options improved and zerodivide crash fixed (only affected bubbles) - Fixed and unhid Autoplay on startup option available in Settings > General (autoplays at startup by default, but allows users to prevent autoplay at startup if they wish) - playback modes overhauled:    - added shuffle tracks + album (dice icon) for 5 shuffle modes total, added repeat all for 4 repeat modes total - repeat modes take precedence and modifies shuffle behaviour - shuffle mode tooltips will change according to repeat mode    - super shuffle + repeat off indexing now works properly - no repeats and stops at ends of queue    - shuffle album + repeat off and shuffle tracks + album + repeat off also use indexing to avoid repeats and stop at end of queue."
+  "notes": [
+    "Installer now allows custom install locations (disabled by default with warning)",
+    "Improved image viewer particle effect options and fixed ZeroDivision crash affecting Bubbles",
+    "Fixed and restored 'Autoplay on startup' setting in Settings > General",
+    "Playback modes overhauled:",
+    "• Added Shuffle Tracks + Album (5 shuffle modes total)",
+    "• Added Repeat All (4 repeat modes total)",
+    "• Repeat modes now modify shuffle behavior",
+    "• Shuffle tooltips now update dynamically",
+    "• Super Shuffle + Repeat Off indexing fixed",
+    "• Shuffle Album + Repeat Off no longer repeats and stops correctly at queue end"
+  ]
 }
