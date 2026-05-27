@@ -8,7 +8,7 @@
     "- Image Viewer particle options improved & fixed Bubbles ZeroDivision crash",
     "- Restored 'Autoplay on startup' option in Settings > General",
     "- Playback modes overhauled:",
-    "• Added Shuffle Tracks + Album (5 shuffle modes total) & Repeat All (4 repeat modes total)",
+    "• NEW Shuffle Tracks + Albums & Repeat All (5 shuffles modes + 4 repeat modes)",
     "• Repeat modes now modify shuffle behavior & update Shuffle tooltips accordingly",
     "• Super Shuffle + Repeat Off indexing fixed - no more repeats & stops at queue end",
     "• Basic shuffle plays entire shuffle tracklist before proceeding to next album",
