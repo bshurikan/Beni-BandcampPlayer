@@ -83,9 +83,9 @@ As a work around Beni's Bandcamp Player loads Bandcamps native player in the bac
 
 ## Image Viewer (Fullscreen Cover Art with player)  
 
-**Image Viewer Options** - toggle player autohide, visualizations, particle effects and more. 
+**Image Viewer Options:** toggle player autohide, visualizations*, particle effects and more. 
 
-**Visualizations are simulated:** this app exclusively streams music via Bandcamp's embedded player, which does not provide safe, reliable access to the live audio data required for real-time spectrum analysis or waveforms. Instead, visualizations use playback-aware animation.
+***Visualizations are simulated:** this app exclusively streams music via Bandcamp's embedded player, which does not provide safe, reliable access to the live audio data required for real-time spectrum analysis or waveforms. Instead, visualizations use playback-aware animation.
 
 For true audio-reactive visualizations, please support the artist by purchasing and downloading the music from Bandcamp and playing it in a dedicated offline music player such as MusicBee, foobar2000, or VLC.
 
