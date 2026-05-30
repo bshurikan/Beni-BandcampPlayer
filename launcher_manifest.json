@@ -1,18 +1,21 @@
 {
-  "version": "4.0.2",
-  "release_date": "2026-05-27",
+  "version": "4.0.3",
+  "release_date": "2026-05-30",
   "release_url": "https://github.com/bshurikan/Beni-BandcampPlayer/releases/tag/Test",
   "update_package_url": "https://github.com/bshurikan/Beni-BandcampPlayer/releases/download/Test/update-test.zip",
   "update_package_sha256": "",
   "notes": [
-    "- Image Viewer particle options improved & fixed Bubbles ZeroDivision crash",
-    "- Restored 'Autoplay on startup' option in Settings > General",
-    "- Playback modes overhauled:",
-    "• NEW Shuffle Tracks + Albums & Repeat All (5 shuffles modes + 4 repeat modes)",
-    "• Repeat modes now modify shuffle behavior & update Shuffle tooltips accordingly",
-    "• Super Shuffle + Repeat Off indexing fixed - no more repeats & stops at queue end",
-    "• Basic shuffle plays entire shuffle tracklist before proceeding to next album",
-    "• Volume popup background always contrasts foreground in every theme",
-    "• Playlist selection and item dragging improved"
+    "• Crash recovery — unclean exit (End Task/freeze) → next launch offers reset settings, copy report, report on GitHub. Normal quit after a crash popup → no nag.",
+	"• Playback engine — queue/advance/shuffle/repeat/autoplay driven more from Python; continuous playback, repeat-all, shuffle and queue end fixes",
+	"• Image Viewer viz — determined simulated-only is the only real option for streaming audio; improved procedural motion and progress ring",
+	"• Particle FX — bubbles improved, snow, rain and blizzard wait until viewport edge to despawn",
+	"• Playlist — drag URL QOL improvements - custom placement, drop line + scroll while dragging, album/tracks stay in view. Item Selection improved",
+	"• UI polish — volume/theme contrast",
+	"• Fan login — smarter restore; theme correct after login.",
+	"• Startup — faster/cleaner boot; single-instance on by default."
   ]
 }
+
+
+
+
