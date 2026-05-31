@@ -8,6 +8,8 @@
 
 Preview Bandcamp releases quickly and conveniently before purchasing (This app plays Bandcamp’s free 128kbps streams - support the artists to get full-quality downloads for your favorite music player like MusicBee, foobar2000, VLC, etc).
 
+If you enjoy using the app, please consider supporting me on Kofi.
+
 <div align="center">
 
 <p><a href="https://github.com/bshurikan/Beni-BandcampPlayer"><img src="images/download.png" height="39"></a>
