@@ -6,7 +6,7 @@
 
 **Compact, Fully featured Bandcamp Streaming App for Windows 10/11.**
 
-Preview Bandcamp releases quickly and conveniently before purchasing (This app plays Bandcamp’s free 128kbps streams - support the artists to get full-quality downloads for your favorite music player like MusicBee, foobar2000, VLC, etc).
+Preview Bandcamp releases quickly and conveniently before purchasing (**Note:** This app plays Bandcamp’s free 128kbps streams - support the artists to get full-quality downloads for your favorite music player like MusicBee, foobar2000, VLC, etc).
 
 <div align="center">
 
