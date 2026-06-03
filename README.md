@@ -4,7 +4,7 @@
 
 </div>
 
-**Coming Soon**
+**Coming Soon!**
 
 **Compact, Fully featured Bandcamp Streaming App for Windows 10/11.**
 
