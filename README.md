@@ -171,12 +171,12 @@ _Early Protype that presented the bandcamp mobile webview directly_
 
 ## Legal & Ethical Use
 
-This tool is designed for:
-* Streaming freely available music from Bandcamp
-* Personal use of music you own or have permission to stream
-* Building a local playlist of new music you want to preview before buying
+This application is designed for:
+* Streaming music available through Bandcamp’s official web player
+* Personal listening of content you own or have permission to access via Bandcamp
+* Creating and managing playlists for personal music discovery and preview before purchase
 
-Please respect copyright laws and Bandcamp's terms of service. Support artists by purchasing music when possible.
+Please respect copyright laws and Bandcamp’s terms of service. Support artists by purchasing music when possible.
 
 ## Disclaimer
 
