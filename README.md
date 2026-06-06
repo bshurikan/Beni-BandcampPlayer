@@ -10,6 +10,8 @@
 
 Preview Bandcamp releases quickly and conveniently before purchasing (**Note:** This app plays Bandcamp’s free 128kbps streams - support the artists to get full-quality downloads for your favorite music player like MusicBee, foobar2000, VLC, etc).
 
+**Legal:** This app is Free proprietary software - not open source. Compiled releases only. No source distribution. GitHub is used for releases and issue tracking.
+
 <div align="center">
 
 <p><a href="https://github.com/bshurikan/Beni-BandcampPlayer/releases"><img src="images/download.png" height="39"></a>
@@ -57,11 +59,11 @@ Preview Bandcamp releases quickly and conveniently before purchasing (**Note:** 
 
 Bandcamp doesn’t provide a public API for music playback, playlists, or track data (its official APIs are limited to sales and merchandise for artists and labels). 
 
-As a work around Beni's Bandcamp Player loads Bandcamps native player in the backround and controls it via a Qt interface and DOM manipulation.
+Beni's Bandcamp Player embeds Bandcamp’s official web player inside a Qt WebEngine browser. The application provides a Qt-based interface layer and uses DOM-based controls to automate playback and playlist functionality.
 
 ### Core Stack
 
-- **PyQt6** – Cross-platform desktop framework for window management
+- **PySide6** – Cross-platform desktop framework for window management
 - **PyQt6-WebEngine** – Embedded Chromium browser used to load Bandcamp’s site with full DOM access
 - **Qt-Painted Interface** - Fully customizable Qt interface used for reliability and extensibility
 - **QtAwesome** – FontAwesome icons for consistency across platforms
