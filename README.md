@@ -4,8 +4,6 @@
 
 </div>
 
-**Coming Soon!**
-
 **Compact, Fully featured Bandcamp Streaming App for Windows 10/11.**
 
 Preview Bandcamp releases quickly and conveniently before purchasing (**Note:** This app plays Bandcamp’s free 128kbps streams - support the artists to get full-quality downloads for your favorite music player like MusicBee, foobar2000, VLC, etc).
@@ -44,7 +42,7 @@ Preview Bandcamp releases quickly and conveniently before purchasing (**Note:** 
   * **Regular Mode** - main window that can be rolled up into Mini or Micro modes to save screen space.
   * **Nano Mode** - An ultra-compact dockable player that can snap to the top or bottom of your screen and auto-hide (à la Winamp); and
   * **Image Viewer Mode** - a lightbox-style showcase (great if you have a second monitor). Zoom and pan artwork, go fullscreen, and enjoy visualization/particle effects.  
-* **Volume Control** - Adjustable volume control!
+* **Volume Control** - Adjustable volume!
 * **Playlist Management** - Easily create and manage URLs and Save/Load separate lists.
 * **Import URLs** - Easily Load Artist Discographies, Similar Artist or Import Collections. 
 * **Shuffle & Repeat** - Multiple playback modes for varied listening.
@@ -59,7 +57,7 @@ Preview Bandcamp releases quickly and conveniently before purchasing (**Note:** 
 
 Bandcamp doesn’t provide a public API for music playback, playlists, or track data (its official APIs are limited to sales and merchandise for artists and labels). 
 
-Beni's Bandcamp Player embeds Bandcamp’s official web player inside a Qt WebEngine browser. The application provides a Qt-based interface layer and uses DOM-based controls to automate playback and playlist functionality.
+Beni's Bandcamp Player embeds Bandcamp’s website inside a Qt WebEngine browser. The application provides a Qt-based interface layer and uses DOM-based controls to automate playback and playlist functionality.
 
 ### Core Stack
 
@@ -80,8 +78,8 @@ Beni's Bandcamp Player embeds Bandcamp’s official web player inside a Qt WebEn
 1. **Add URLs**: Drag and drop Bandcamp URLs into the main window (to load it right away) or into the playlist to create a queue (CTRL+V, Right click and select Paste URL also work).
 3. **Play Music**: Double click on an album in the playlist to load the url and start playing.
 4. **Player Controls**: Use the Play controls or keyboard shortcuts to navigate albums and tracks, and adjust play modes (see [Shuffle & Repeat Modes](#shuffle--repeat-modes--)).
-6. **Album List**: Use the Album List to manage Bandcamp URL's, you can add/remove, reorder, load artist discography, save and load Album lists and more. The Album List can act as a sidebar (attached to the main window) or be detached for more felxibility (the detached Album List can be resized, docked to the main window and will remember its state/position)
-7. **Window Modes**: Roll up the main window into in to Mini or Micro using the upward chevron or minimize to the separate Nano Player from the title bar.
+6. **Album List**: Use the Album List to manage Bandcamp URL's, you can add/remove, reorder, load artist discography, save and load Album lists and more. The Album List can act as a sidebar (attached to the main window) or be detached for more flexibility (the detached Album List can be resized, docked to the main window and will remember its state/position)
+7. **Window Modes**: Roll up the main window into Mini or Micro using the upward chevron or minimize to the separate Nano Player from the title bar.
 8. **Image Viewer**: Click on the fullscreen button to enter Image viewer.
 10. **Settings Menu**: Click on the cog icon to view several additional settings like Updates, Settings, Themes, and more. 
 
@@ -129,7 +127,7 @@ For true audio-reactive visualizations, please support the artist by purchasing 
 
 **Windows SmartScreen Warning**
 - When you open the app for the first time, Windows might say: "Windows protected your PC"
-- This happens because the app isn't code-signed (certificates are pricey, and this is a free open-source project).
+- This happens because the app isn't code-signed (code-signing certificates are expensive for indie freeware releases).
 - No worries, it's safe to run. The EXE is the same code you can read on GitHub.
 - **To continue:** Click "More info" and "Run anyway", Windows won't nag you again for the same .exe. 
 
@@ -182,7 +180,7 @@ Please respect copyright laws and Bandcamp's terms of service. Support artists b
 
 ## Disclaimer
 
-This software is provided as-is for educational and personal use. The developer is not responsible for misuse of the software. Please use responsibly and support the artists whose music you enjoy.
+This software is provided as-is for educational and personal use. The developer is not responsible for any misuse of the software. Please use responsibly and support the artists whose music you enjoy.
 
 
 
