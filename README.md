@@ -12,7 +12,7 @@ Preview Bandcamp releases quickly and conveniently before purchasing (**Note:** 
 
 <div align="center">
 
-<p><a href="https://github.com/bshurikan/Beni-BandcampPlayer"><img src="images/download.png" height="39"></a>
+<p><a href="https://github.com/bshurikan/Beni-BandcampPlayer/releases"><img src="images/download.png" height="39"></a>
   <a href="https://ko-fi.com/B0B51LWFE" target="_blank"><img src="images/support_me_on_kofi_beige.png" height="39"></a>
 </p>
 
@@ -42,7 +42,7 @@ Preview Bandcamp releases quickly and conveniently before purchasing (**Note:** 
   * **Regular Mode** - main window that can be rolled up into Mini or Micro modes to save screen space.
   * **Nano Mode** - An ultra-compact dockable player that can snap to the top or bottom of your screen and auto-hide (à la Winamp); and
   * **Image Viewer Mode** - a lightbox-style showcase (great if you have a second monitor). Zoom and pan artwork, go fullscreen, and enjoy visualization/particle effects.  
-* **Volume Control** - Adjustable volume! Nuff said.  
+* **Volume Control** - Adjustable volume control!
 * **Playlist Management** - Easily create and manage URLs and Save/Load separate lists.
 * **Import URLs** - Easily Load Artist Discographies, Similar Artist or Import Collections. 
 * **Shuffle & Repeat** - Multiple playback modes for varied listening.
@@ -70,7 +70,7 @@ As a work around Beni's Bandcamp Player loads Bandcamps native player in the bac
 
 **Installation**
 
-1. Download [BandcampPlayer.zip](https://github.com/kameryn1811/Bandcamp-Player/releases/tag/Launcher_v3.0.0_Beanbagbeni_Edition) extract it and run BandcampPlayer.exe.
+1. Download and run [BenisBandcampPlayer-Setup-4.0.exe](https://github.com/bshurikan/Beni-BandcampPlayer/releases) and use the desktop or start menu shortcut to run (A portable .zip version is also available).
 2. **Note:** You may see a Windows Defender SmartScreen Warning, see [Troubleshooting](#troubleshooting) for more information. 
 
 ## Usage
@@ -130,7 +130,6 @@ For true audio-reactive visualizations, please support the artist by purchasing 
 - This happens because the app isn't code-signed (certificates are pricey, and this is a free open-source project).
 - No worries, it's safe to run. The EXE is the same code you can read on GitHub.
 - **To continue:** Click "More info" and "Run anyway", Windows won't nag you again for the same .exe. 
-- **Want extra peace of mind?** - You can review the code, build it yourself, or use the standalone Python script.
 
 **Windows 7: Missing DLL or Failed to load Python Errors**
 - If the app won't launch on Windows 7 and you see errors like "api-ms-win-core-path-l1-1-0.dll not found" or "Failed to load Python DLL," Windows 7 is missing a DLL required by Python 3.11+.
@@ -142,7 +141,7 @@ For true audio-reactive visualizations, please support the artist by purchasing 
 - Thanks to @alabx for this [fix](https://github.com/kameryn1811/Bandcamp-Downloader/issues/6)! 
 
 **"Player not responding or sluggish"**
-- Check your internet connection
+- This App requires a high speed internet connection.
 - Verify the Bandcamp URL is valid and accessible (sometimes artists remove access to an album or redirect it), check the album page to make sure its still there, remove the url and readd it. 
 - Try refreshing the URL or switching to another URL. 
 - VPNs, proxies, or ISP “secure connection” features can block or slow the CDN requests used to fetch artwork and metadata. Try turning these off or switching to a faster VPN location or Split tunnel and exclude the app. 
@@ -181,7 +180,7 @@ Please respect copyright laws and Bandcamp's terms of service. Support artists b
 
 ## Disclaimer
 
-This software is provided as-is for educational and personal use. The developers are not responsible for misuse. Please use responsibly and support the artists whose music you enjoy.
+This software is provided as-is for educational and personal use. The developer is not responsible for misuse of the software. Please use responsibly and support the artists whose music you enjoy.
 
 
 
