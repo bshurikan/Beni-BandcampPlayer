@@ -55,9 +55,11 @@ Preview Bandcamp releases quickly and conveniently before purchasing (**Note:** 
 
 ## Technology & Approach
 
-Bandcamp doesn’t provide a public API for music playback, playlists, or track data (its official APIs are limited to sales and merchandise for artists and labels). 
+Bandcamp doesn’t currently provide a public API for music playback, playlists, or track data (its official APIs are limited to sales and merchandise for artists and labels). 
 
-Beni's Bandcamp Player embeds Bandcamp’s website inside a Qt WebEngine browser. The application provides a Qt-based interface layer and uses DOM-based controls to automate playback and playlist functionality.
+Without a public playback API, Beni's Bandcamp Player instead relies on Bandcamp's native web pages, loading them in an embedded Chromium-based browser and provides a custom interface with added features such as enhanced playback controls, playlists, window modes, keyboard shortcuts, and more.
+
+**Note:** Because the app loads the live Bandcamp website, account features like purchasing, wishlisting, and login work natively, and Bandcamp's standard listening limits apply.
 
 ### Core Stack
 
@@ -127,7 +129,7 @@ For true audio-reactive visualizations, please support the artist by purchasing 
 
 **Windows SmartScreen Warning**
 - When you open the app for the first time, Windows might say: "Windows protected your PC"
-- This happens because the app isn't code-signed (code-signing certificates are expensive for indie freeware releases).
+- This happens because the app isn't code-signed. Code-signing certificates can be expensive for independently developed freeware applications.
 - No worries, it's safe to run. The EXE is the same code you can read on GitHub.
 - **To continue:** Click "More info" and "Run anyway", Windows won't nag you again for the same .exe. 
 
