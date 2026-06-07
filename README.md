@@ -41,15 +41,7 @@ Preview Bandcamp releases quickly and conveniently before purchasing (**Note:** 
   * **Image Viewer Mode** - a lightbox-style showcase (great if you have a second monitor). Zoom and pan artwork, go fullscreen, and enjoy visualization/particle effects.  
 * **Volume Control** - Adjustable volume!
 * **Playlist Management** - Easily create and manage URLs and Save/Load separate lists.
-
-<img width="278" alt="image" src="https://github.com/user-attachments/assets/86991edb-cc1c-4e1f-90e2-48d23489ffa6" />
-<img width="426" alt="Playlist Management" src="https://github.com/user-attachments/assets/60e3b838-3148-4f4a-8026-ebd0baf9b219" />
-  
-* **Import URLs** - Easily Load Artist Discographies, Similar Artist or Import Collections.
-
-<img width="388" height="114" alt="image" src="https://github.com/user-attachments/assets/ed36cb36-c0d8-4a95-9959-3819e0c51186" />
-
-  
+* **Import URLs** - Easily Load Artist Discographies, Similar Artist or Import Collections. 
 * **Shuffle & Repeat** - Multiple playback modes for varied listening.
 * **App Themes** - Choose from Light, Dark, Album or Custom!
   * **Album Themes** - loads color palette from each URL for a unique look that matches the artists intent. Palettes can be saved and edited - with a Prefer Saved option to override the default palette! 
