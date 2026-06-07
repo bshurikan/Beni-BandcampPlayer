@@ -29,8 +29,7 @@ Preview Bandcamp releases quickly and conveniently before purchasing (**Note:** 
 
 *The image viewer mode with player, playlist, visualizer and particles effects available.*
 
-<img width="593" alt="image viewer fullscreen" src="https://github.com/user-attachments/assets/ee3626d5-92ae-4c85-b3cf-6d27eede34ba" />
-
+<img width="583" alt="image viewer fullscreen" src="https://github.com/user-attachments/assets/9c6f6cfe-50e0-4970-9069-df4c938cc219" />
 
 *The image viewer interface in fullscreen mode with player, playlist, visualizer and particles effects available.*
 
