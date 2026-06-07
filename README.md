@@ -8,7 +8,7 @@
 
 Preview Bandcamp releases quickly and conveniently before purchasing (**Note:** This app plays Bandcamp’s free 128kbps streams - support the artists to get full-quality downloads for your favorite music player like MusicBee, foobar2000, VLC, etc).
 
-**Legal:** This app is Free proprietary software - not open source. Compiled releases only. No source distribution. GitHub is used for releases and issue tracking.
+**Legal:** Beni's Bandcamp Player is free, proprietary software — not open source. Compiled releases only; no source distribution. See the EULA for full terms. GitHub is used for releases and issue tracking.
 
 <div align="center">
 
@@ -72,7 +72,7 @@ Without a public playback API, Beni's Bandcamp Player instead relies on Bandcamp
 
 **Installation**
 
-Download and run [BenisBandcampPlayer-Setup-4.0.exe](https://github.com/bshurikan/Beni-BandcampPlayer/releases) to install the app, then use the desktop or start menu shortcut to start it.
+Download and run the [Latest Setup.exe](https://github.com/bshurikan/Beni-BandcampPlayer/releases) to install the app, then use the desktop or start menu shortcut to start it.
 
 **Note:** You may see a Windows Defender SmartScreen Warning, see [Troubleshooting](#troubleshooting) for more information. 
 
@@ -81,10 +81,10 @@ Download and run [BenisBandcampPlayer-Setup-4.0.exe](https://github.com/bshurika
 1. **Add URLs**: Drag and drop Bandcamp URLs into the main window (to load it right away) or into the playlist to create a queue (CTRL+V, Right click and select Paste URL also work).
 3. **Play Music**: Double click on an album in the playlist to load the url and start playing.
 4. **Player Controls**: Use the Play controls or keyboard shortcuts to navigate albums and tracks, and adjust play modes (see [Shuffle & Repeat Modes](#shuffle--repeat-modes--)).
-6. **Album List**: Use the Album List to manage Bandcamp URL's, you can add/remove, reorder, load artist discography, save and load Album lists and more. The Album List can act as a sidebar (attached to the main window) or be detached for more flexibility (the detached Album List can be resized, docked to the main window and will remember its state/position)
-7. **Window Modes**: Roll up the main window into Mini or Micro using the upward chevron or minimize to the separate Nano Player from the title bar.
-8. **Image Viewer**: Click on the fullscreen button to enter Image viewer.
-10. **Settings Menu**: Click on the cog icon to view several additional settings like Updates, Settings, Themes, and more. 
+6. **Album List**: Use the Album List to manage Bandcamp URL's, you can add/remove, reorder, load artist discography or similar artists, save and load Album lists and more. The Album List can act as a sidebar (attached to the main window) or be detached for more flexibility (the detached Album List can be resized, docked to the main window and will remember its state/position)
+7. **Window Modes**: Roll up the main window into **Mini** or **Micro** using the upward chevron or minimize to the separate **Nano Player** from the title bar.
+8. **Image Viewer**: Click on the fullscreen button to enter **Image viewer**, a lightbox style viewer.
+10. **Settings Menu**: Click on the cog icon to reach additional options like Updates, Settings, Themes, and more. 
 
 ## Image Viewer (Fullscreen Cover Art with player)  
 
@@ -136,15 +136,6 @@ For true audio-reactive visualizations, please support the artist by purchasing 
 - No worries, it's safe to run. The EXE is the same code you can read on GitHub.
 - **To continue:** Click "More info" and "Run anyway", Windows won't nag you again for the same .exe. 
 
-**Windows 7: Missing DLL or Failed to load Python Errors**
-- If the app won't launch on Windows 7 and you see errors like "api-ms-win-core-path-l1-1-0.dll not found" or "Failed to load Python DLL," Windows 7 is missing a DLL required by Python 3.11+.
-- Fix it with the latest compatibility patch from nalexandru: https://github.com/nalexandru/api-ms-win-core-path-HACK/releases
-- Download the latest release and copy the DLLs to the following locations:
-  - x86 → C:\Windows\SysWOW64
-  - x64 → C:\Windows\System32 (Admin rights may be needed)
-- Launch the app!
-- Thanks to @alabx for this [fix](https://github.com/kameryn1811/Bandcamp-Downloader/issues/6)! 
-
 **"Player not responding or sluggish"**
 - This App requires a high speed internet connection.
 - Verify the Bandcamp URL is valid and accessible (sometimes artists remove access to an album or redirect it), check the album page to make sure its still there, remove the url and readd it. 
@@ -157,11 +148,24 @@ For true audio-reactive visualizations, please support the artist by purchasing 
 - Check that the Playlists folder exists in the app directory
 - Verify write permissions for the app directory
 
+**Windows 7: Missing DLL or Failed to load Python Errors**
+- If the app won't launch on Windows 7 and you see errors like "api-ms-win-core-path-l1-1-0.dll not found" or "Failed to load Python DLL," Windows 7 is missing a DLL required by Python 3.11+.
+- Fix it with the latest compatibility patch from nalexandru: https://github.com/nalexandru/api-ms-win-core-path-HACK/releases
+- Download the latest release and copy the DLLs to the following locations:
+  - x86 → C:\Windows\SysWOW64
+  - x64 → C:\Windows\System32 (Admin rights may be needed)
+- Launch the app!
+- Thanks to @alabx for this [fix](https://github.com/kameryn1811/Bandcamp-Downloader/issues/6)!
+
 ## Credits & Inspiration
 
-This project was inspired by [Robert Golderbine's Companion Window | Always on Top](https://chromewebstore.google.com/detail/companion-window-always-o/hhneckfekhpegclkfhefepcjmcnmnpae) and [Yuki Eliot's Mobile View Switcher](https://chromewebstore.google.com/detail/mobile-view-switcher/ddfcjnekgmblacbpifjdmcbbhfcdekic). 
+**A Note on the Name**
+Beni's Bandcamp Player is named in memory of my mom, Beni, who passed away on December 24, 2025. ♥
 
-Prior to this project I was using a **custom version of Companion Window** with **Mobile View Switcher** as a Mini BandCamp Player (It featured a compact bandcamp mode that stripped away everything but the player and playlist, and had roll up feature like the current app - but had to be launched separately for each album and had many security limitations inherent in browser PIP implementations preventing automations e.g. automatic resizing, playback manipulation, playlists+ which are made possible in this python project.
+**Evolution of the App**
+This project was originally inspired by [Robert Golderbine's Companion Window | Always on Top](https://chromewebstore.google.com/detail/companion-window-always-o/hhneckfekhpegclkfhefepcjmcnmnpae) and [Yuki Eliot's Mobile View Switcher](https://chromewebstore.google.com/detail/mobile-view-switcher/ddfcjnekgmblacbpifjdmcbbhfcdekic). 
+
+Prior to this project I was using a **customized version of Companion Window** in combination with **Mobile View Switcher** as a Mini BandCamp Player (It featured a compact bandcamp mode that stripped away everything but the player and playlist, and had roll up feature like the current app - but had to be launched separately for each album url and had many security limitations inherent in browser PIP implementations preventing automations e.g. automatic resizing, playback manipulation, playlists+ which are now made possible in the latest version.
 
 <img alt="main-player-interface" src="images/OGBandcampPlayer.png" />
 
@@ -171,7 +175,7 @@ Out of interest here is a screenshot from an early prototype of the current play
 
 <img width="560" alt="Early Prototype" src="https://github.com/user-attachments/assets/f37a89ad-e3cb-4de0-8e61-9d53db7458b3" />
 
-_Early Protype that presented the bandcamp mobile webview directly_
+_Early V1 Protype that presented the bandcamp mobile webview directly_
 
 
 ## Legal & Ethical Use
@@ -185,7 +189,13 @@ Please respect copyright laws and Bandcamp’s terms of service. Support artists
 
 ## Disclaimer
 
-This software is provided as-is for educational and personal use. The developer is not responsible for any misuse of the software. Please use responsibly and support the artists whose music you enjoy.
+Beni's Bandcamp Player is independent, third-party software and is not affiliated with, endorsed by, or sponsored by Bandcamp. All Bandcamp content, trademarks, and services remain the property of their respective owners.
+
+This software is provided free of charge, as-is, for personal use. Bandcamp may update their website or service in ways that temporarily affect the app's functionality; while the developer will endeavour to maintain compatibility, this cannot be guaranteed.
+
+Please use the app responsibly, respect Bandcamp's terms of service and applicable copyright law, and support the artists whose music you enjoy.
+
+For full terms, see the EULA.txt and THIRD_PARTY_NOTICES.txt included with the application.
 
 
 
