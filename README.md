@@ -16,7 +16,7 @@ Preview Bandcamp releases quickly and conveniently before purchasing (**Note:** 
   <a href="https://ko-fi.com/B0B51LWFE" target="_blank"><img src="images/support_me_on_kofi_beige.png" height="39"></a>
 </p>
 
-[Key Features](#key-features) &nbsp;&middot;&nbsp; [Quick Start](#quick-start) &nbsp;&middot;&nbsp; [Troubleshooting](#troubleshooting) &nbsp;&middot;&nbsp; [Disclaimer](#legal--ethical-use)
+[Key Features](#key-features) &nbsp;&middot;&nbsp; [Quick Start](#quick-start) &nbsp;&middot;&nbsp; [Troubleshooting](#troubleshooting) &nbsp;&middot;&nbsp; [Credits](#credits--inspiration) &nbsp;&middot;&nbsp; [Disclaimer](#legal--ethical-use)
 
 </div>
 <br>
