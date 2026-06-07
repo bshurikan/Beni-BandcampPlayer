@@ -128,7 +128,7 @@ For true audio-reactive visualizations, please support the artist by purchasing 
 
 **Please Note**
 - Documentation is still improving
-- This app has received a considerable amount of testing so it should be pretty stable but you may still encounter bugs, please feel free to report any issues or suggestions. Issues can usually be resolved by loading another url, restarting the app, or if you're really stuck renaming or deleting settings.json and it's Backup folder, and/or the Playlists folder. 
+- This app has received a considerable amount of testing so it should be pretty stable but you may still encounter bugs, please feel free to report any issues or suggestions. Issues can usually be resolved by loading another url, restarting the app, or if you're really stuck renaming or deleting settings.json and its Backup folder, and/or the Playlists folder. 
 
 **Windows SmartScreen Warning**
 - When you open the app for the first time, Windows might say: "Windows protected your PC"
@@ -171,11 +171,11 @@ Prior to this project I was using a **customized version of Companion Window** i
 
 _Original Bandcamp Player browser extension_
 
-Out of interest here is a screenshot from an early prototype of the current player that displayed the mobile webview directly instead of using a custom interface (an evolution of the original browser extension concept). However it also had a number of limitations and bugs that were difficult to surmout (the live webview could be unpredictable and fail to reliably inject css and js) *The live webview is still presented in the current app when logging in or out and fundamental to the app behind the scenes. 
+Out of interest here is a screenshot from an early prototype of the current player that displayed the mobile webview directly instead of using a custom interface (an evolution of the original browser extension concept). However it also had a number of limitations and bugs that were difficult to surmount (the live webview could be unpredictable and fail to reliably inject css and js) *The live webview is still presented in the current app when logging in or out and fundamental to the app behind the scenes. 
 
 <img width="560" alt="Early Prototype" src="https://github.com/user-attachments/assets/f37a89ad-e3cb-4de0-8e61-9d53db7458b3" />
 
-_Early V1 Protype that presented the bandcamp mobile webview directly_
+_Early V1 Prototype that presented the bandcamp mobile webview directly_
 
 
 ## Legal & Ethical Use
