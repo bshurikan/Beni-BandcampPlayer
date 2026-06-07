@@ -98,13 +98,13 @@ For true audio-reactive visualizations, please support the artist by purchasing 
 
 ## Shuffle & Repeat Modes  <img alt="shuffle-repeat" src="images/shuffle-repeat.png" />
 
-- <img alt="shuffle-tracks" src="images/shuffle-tracks.png" width="21" /> **Shuffle Tracks** – shuffle tracks within the current album
-- <img alt="shuffle-album" src="images/shuffle albums.png" width="21" /> **Shuffle Albums** – play albums in random order
-- <img alt="shuffle-tracks+albums" src="images/shuffle tracks and albums.png" width="21" /> **Shuffle Tracks + Albums** – play random albums and shuffle the tracks
-- <img alt="super-shuffle" src="images/super-shuffle.png" width="21" /> **Super Shuffle** – completely random album and track; avoids repeats
-- <img alt="repeat-1" src="images/repeat track.png" width="21" /> **Repeat Track** – loops the current track
-- <img alt="repeat-album" src="images/repeat album.png" width="21" /> **Repeat Album** – loops the current album
-- <img alt="continuous" src="images/continuous.png" width="21" /> **Repeat All** – loops the entire queue
+- <img alt="shuffle-tracks" src="images/shuffle-tracks.png" width="25" /> **Shuffle Tracks** – shuffle tracks within the current album
+- <img alt="shuffle-album" src="images/shuffle albums.png" width="25" /> **Shuffle Albums** – play albums in random order
+- <img alt="shuffle-tracks+albums" src="images/shuffle tracks and albums.png" width="25" /> **Shuffle Tracks + Albums** – play random albums and shuffle the tracks
+- <img alt="super-shuffle" src="images/super-shuffle.png" width="25" /> **Super Shuffle** – completely random album and track; avoids repeats
+- <img alt="repeat-1" src="images/repeat track.png" width="25" /> **Repeat Track** – loops the current track
+- <img alt="repeat-album" src="images/repeat album.png" width="25" /> **Repeat Album** – loops the current album
+- <img alt="continuous" src="images/continuous.png" width="25" /> **Repeat All** – loops the entire queue
 
 **Combinations:** Repeat modes options will override Shuffle modes (e.g., *Repeat Track* supercedes all modes, *Repeat Album* downgrades *Super Shuffle* to *Regular Shuffle*, etc.).
 
