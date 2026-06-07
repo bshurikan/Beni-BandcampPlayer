@@ -46,6 +46,12 @@ Preview Bandcamp releases quickly and conveniently before purchasing (**Note:** 
 * **App Themes** - Choose from Light, Dark, Album or Custom!
   * **Album Themes** - loads color palette from each URL for a unique look that matches the artists intent. Palettes can be saved and edited - with a Prefer Saved option to override the default palette! 
   * **Custom Themes** - Save an album theme you like or create your own with built in Theme editor!
+
+<img width="583" alt="image" src="https://github.com/user-attachments/assets/0a8959b6-0bc9-4ca0-b5f4-78ec3f8e13f9" />
+
+<img width="583" alt="image" src="https://github.com/user-attachments/assets/0a49d3ab-fde4-4d81-9bff-760236f7ec0a" />
+
+  
 * **Account Menu** - Login to Bandcamp to access **Follow Artist** and **Wishlist Album** features directly from the Apps Account Menu and unlock unlimited streaming of albums you've purchased with fancy icon and thank you messages. 
 * **Track Change Notifications** - Keep track of what you are listening to, especially helpful in Nano Mode when autohidden; adjust the notifications or turn them off in the settings. 
 * **Keyboard Shortcuts** - Full keyboard control for play, pause, next, previous, volume, and more (customizable in the settings menu). With Global Support. 
