@@ -165,7 +165,7 @@ Beni's Bandcamp Player is named in memory of my mom, Beni, who passed away on De
 **Evolution of the App**<br>
 This project was originally inspired by Robert Golderbine's [Companion Window | Always on Top](https://chromewebstore.google.com/detail/companion-window-always-o/hhneckfekhpegclkfhefepcjmcnmnpae) and Yuki Eliot's [Mobile View Switcher](https://chromewebstore.google.com/detail/mobile-view-switcher/ddfcjnekgmblacbpifjdmcbbhfcdekic). 
 
-Prior to this project I was using a **customized version of Companion Window** in combination with **Mobile View Switcher** as a Mini BandCamp Player (It featured a compact bandcamp mode that stripped away everything but the player and playlist, and had roll up feature like the current app - but had to be launched separately for each album url and had many security limitations inherent in browser PIP implementations preventing automations e.g. automatic resizing, playback manipulation, playlists+ which are now made possible in the latest version.
+Prior to this project I was using a **customized version of Companion Window** in combination with **Mobile View Switcher** as a Mini BandCamp Player (It featured a compact bandcamp mode that stripped away everything but the player and playlist, and had a roll up feature like the current app - but had to be launched separately for each album url and had many security limitations inherent in browser PIP implementations preventing automations e.g. automatic resizing, playback manipulation, playlists+ which are now made possible in the latest version.
 
 <img alt="main-player-interface" src="images/OGBandcampPlayer.png" />
 
