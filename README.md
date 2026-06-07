@@ -93,7 +93,6 @@ Without a public playback API, Beni's Bandcamp Player instead relies on Bandcamp
 
 For true audio-reactive visualizations, please support the artist by purchasing and downloading the music from Bandcamp and playing it in a dedicated offline music player such as MusicBee, foobar2000, or VLC.
 
-<img alt="image viewer button" src="images/vis-menu.png" /> 
 <img width="444" alt="image viewer options" src="https://github.com/user-attachments/assets/64208e4f-f100-4d0a-bed1-65e9762f7447" />
 
 
