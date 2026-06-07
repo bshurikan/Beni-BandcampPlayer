@@ -101,8 +101,10 @@ For true audio-reactive visualizations, please support the artist by purchasing 
 <img alt="shuffle-tracks" src="images/shuffle-tracks.png" /> **Shuffle Tracks** – shuffle tracks within the current album  
 <img alt="shuffle-album" src="images/shuffle albums.png" /> **Shuffle Albums** – play albums in random order  
 <img alt="shuffle-tracks+albums" src="images/shuffle tracks and albums.png" /> **Shuffle Tracks + Albums** – play albums in random order and shuffle their tracks
+
 <img alt="super-shuffle" src="images/super-shuffle.png" /> **Super Shuffle** – completely random album and track; avoids repeats  
 <img alt="repeat-1" src="images/repeat track.png" /> **Repeat Track** – loops current track
+
 <img alt="repeat-album" src="images/repeat album.png" /> **Repeat Album** – loops current album  
 <img alt="continuous" src="images/continuous.png" /> **Repeat All** – loops entire queue
 
