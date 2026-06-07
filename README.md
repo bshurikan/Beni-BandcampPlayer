@@ -25,10 +25,11 @@ Preview Bandcamp releases quickly and conveniently before purchasing (**Note:** 
 
 *The main player regular/mini/micro/nano modes and notification.*
 
-
-<img width="593" alt="image viewer mode" src="https://github.com/user-attachments/assets/b05a39d4-084c-436c-b3d6-7b5c0bc8bc56" />
+<img width="583" alt="image viewer mode" src="https://github.com/user-attachments/assets/d25f545e-f935-41eb-8144-3cc079f70173" />
 
 *The image viewer interface.*
+
+<img width="678" height="678" alt="image" src="https://github.com/user-attachments/assets/462c9555-e67e-4e7d-abec-8f393f39c71c" />
 
 
 <img width="593" alt="image viewer fullscreen" src="https://github.com/user-attachments/assets/ee3626d5-92ae-4c85-b3cf-6d27eede34ba" />
