@@ -72,7 +72,7 @@ Without a public playback API, Beni's Bandcamp Player instead relies on Bandcamp
 
 **Installation**
 
-Download and run [BenisBandcampPlayer-Setup-4.0.exe](https://github.com/bshurikan/Beni-BandcampPlayer/releases) and use the desktop or start menu shortcut to run (A portable .zip version is also available).
+Download and run [BenisBandcampPlayer-Setup-4.0.exe](https://github.com/bshurikan/Beni-BandcampPlayer/releases) to install the app, then use the desktop or start menu shortcut to start it.
 
 **Note:** You may see a Windows Defender SmartScreen Warning, see [Troubleshooting](#troubleshooting) for more information. 
 
