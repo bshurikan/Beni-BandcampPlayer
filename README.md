@@ -98,13 +98,11 @@ For true audio-reactive visualizations, please support the artist by purchasing 
 
 ## Shuffle & Repeat Modes  <img alt="shuffle-repeat" src="images/shuffle-repeat.png" />
 
-<br><img alt="shuffle-tracks" src="images/shuffle-tracks.png" /> **Shuffle Tracks** – shuffle tracks within the current album  
-<br><img alt="shuffle-album" src="images/shuffle albums.png" /> **Shuffle Albums** – play albums in random order  
-<br><img alt="shuffle-tracks+albums" src="images/shuffle tracks and albums.png" /> **Shuffle Tracks + Albums** – play albums in random order and shuffle their tracks
-<br><br><img alt="super-shuffle" src="images/super-shuffle.png" /> **Super Shuffle** – completely random album and track; avoids repeats  
-<br><img alt="repeat-1" src="images/repeat track.png" /> **Repeat Track** – loops current track
-<br><img alt="repeat-album" src="images/repeat album.png" /> **Repeat Album** – loops current album  
-<br><img alt="continuous" src="images/continuous.png" /> **Repeat All** – loops entire queue
+<ul>
+  <li><img alt="shuffle-tracks" src="images/shuffle-tracks.png" width="20"> <strong>Shuffle Tracks</strong> – shuffle tracks within the current album</li>
+  <li><img alt="shuffle-album" src="images/shuffle albums.png" width="20"> <strong>Shuffle Albums</strong> – play albums in random order</li>
+  ...
+</ul>
 
 **Combinations:** Repeat modes options will override Shuffle modes (e.g., *Repeat Track* supercedes all modes, *Repeat Album* downgrades *Super Shuffle* to *Regular Shuffle*, etc.).
 
