@@ -49,7 +49,7 @@ Preview Bandcamp releases quickly and conveniently before purchasing (**Note:** 
 
 <div align="center"><img width="583" alt="Album Themes" src="https://github.com/user-attachments/assets/0a8959b6-0bc9-4ca0-b5f4-78ec3f8e13f9" /></div>
  
-* **Account Menu** - Login to Bandcamp to access **Follow Artist** and **Wishlist Album** features directly from the Apps Account Menu and unlock unlimited streaming of albums you've purchased with fancy icon and thank you messages. 
+* **Account Menu** - Login to Bandcamp securely to enable **Follow Artist** and **Wishlist Album** features directly from the Apps Fan Account Menu and unlock unlimited streaming of albums you've purchased with fancy icon and thank you messages. 
 * **Track Change Notifications** - Keep track of what you are listening to, especially helpful in Nano Mode when autohidden; adjust the notifications or turn them off in the settings. 
 * **Keyboard Shortcuts** - Full keyboard control for play, pause, next, previous, volume, and more (customizable in the settings menu). With Global Support. 
 
