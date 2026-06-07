@@ -23,6 +23,8 @@ Preview Bandcamp releases quickly and conveniently before purchasing (**Note:** 
 
 <img width="593" alt="main-player-interface" src="https://github.com/user-attachments/assets/f48c31c6-f8a2-4a93-825f-de62e7c23141" />
 
+<img width="583" alt="main-player-interface" src="https://github.com/user-attachments/assets/0773bc16-a7a2-4b6f-b025-cda08bf1ee83" />
+
 *The main player regular/mini/micro/nano modes and notification.*
 
 
