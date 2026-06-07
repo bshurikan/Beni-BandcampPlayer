@@ -4,7 +4,7 @@
 
 </div>
 
-**Compact, Fully featured Bandcamp Streaming App for Windows 10/11.**
+**Compact, fully featured Bandcamp Streaming App for Windows 10/11.**
 
 Preview Bandcamp releases quickly and conveniently before purchasing (**Note:** This app plays Bandcamp’s free 128kbps streams - support the artists to get full-quality downloads for your favorite music player like MusicBee, foobar2000, VLC, etc).
 
@@ -57,7 +57,7 @@ Preview Bandcamp releases quickly and conveniently before purchasing (**Note:** 
 
 Bandcamp doesn’t currently provide a public API for music playback, playlists, or track data (its official APIs are limited to sales and merchandise for artists and labels). 
 
-Without a public playback API, Beni's Bandcamp Player instead relies on Bandcamp's native web pages, loading them in an embedded Chromium-based browser and provides a custom interface with added features such as enhanced playback controls, playlists, window modes, keyboard shortcuts, and more.
+Without a public playback API, Beni's Bandcamp Player instead relies on Bandcamp's native web pages, loading them in an embedded Chromium-based browser and providing a custom interface with added features such as enhanced playback controls, playlists, window modes, keyboard shortcuts, and more.
 
 **Note:** Because the app loads the live Bandcamp website, account features like purchasing, wishlisting, and login work natively, and Bandcamp's standard listening limits apply.
 
@@ -72,8 +72,9 @@ Without a public playback API, Beni's Bandcamp Player instead relies on Bandcamp
 
 **Installation**
 
-1. Download and run [BenisBandcampPlayer-Setup-4.0.exe](https://github.com/bshurikan/Beni-BandcampPlayer/releases) and use the desktop or start menu shortcut to run (A portable .zip version is also available).
-2. **Note:** You may see a Windows Defender SmartScreen Warning, see [Troubleshooting](#troubleshooting) for more information. 
+Download and run [BenisBandcampPlayer-Setup-4.0.exe](https://github.com/bshurikan/Beni-BandcampPlayer/releases) and use the desktop or start menu shortcut to run (A portable .zip version is also available).
+
+**Note:** You may see a Windows Defender SmartScreen Warning, see [Troubleshooting](#troubleshooting) for more information. 
 
 ## Usage
 
@@ -127,7 +128,7 @@ For true audio-reactive visualizations, please support the artist by purchasing 
 
 **Please Note**
 - Documentation is still improving
-- This app has now received a decent amount of testing so it should be pretty stable but you may still encounter bugs, please feel free to report any issues or suggestions. Issues can usually be resolved by loading another url, restarting the app, or if you're really stuck renaming or deleting settings.json and it's Backup folder, and/or the Playlists folder. 
+- This app has received a considerable amount of testing so it should be pretty stable but you may still encounter bugs, please feel free to report any issues or suggestions. Issues can usually be resolved by loading another url, restarting the app, or if you're really stuck renaming or deleting settings.json and it's Backup folder, and/or the Playlists folder. 
 
 **Windows SmartScreen Warning**
 - When you open the app for the first time, Windows might say: "Windows protected your PC"
