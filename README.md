@@ -40,6 +40,7 @@ Preview Bandcamp releases quickly and conveniently before purchasing (**Note:** 
   * **Nano Mode** - An ultra-compact dockable player that can snap to the top or bottom of your screen and auto-hide (à la Winamp); and
   * **Image Viewer Mode** - a lightbox-style showcase (great if you have a second monitor). Zoom and pan artwork, go fullscreen, and enjoy visualization/particle effects.  
 * **Volume Control** - Adjustable volume!
+* **Info Popups** - Use the info buttons next to albums and tracks to view Album, artist, track, and supporter information directly from the player.
 * **Playlist Management** - Easily create and manage URLs and Save/Load separate lists.
 * **Import URLs** - Easily Load Artist Discographies, Similar Artist or Import Collections. 
 * **Shuffle & Repeat** - Multiple playback modes for varied listening.
