@@ -129,7 +129,7 @@ For true audio-reactive visualizations, please support the artist by purchasing 
 
 **Please Note**
 - Documentation is still improving
-- This app has received a considerable amount of testing so it should be pretty stable but you may still encounter bugs, please feel free to report any issues or suggestions. Issues can usually be resolved by loading another url, restarting the app, or if you're really stuck renaming or deleting settings.json and its Backup folder, and/or the Playlists folder. 
+- This app has received a considerable amount of testing so it should be pretty stable but you may still encounter bugs, please feel free to report any issues or suggestions. Issues can usually be resolved by loading another url, restarting the app, or if you're really stuck: close the app and rename or delete <code>settings.json</code> and the <code>\Backups</code> folder, and/or the <code>\webengine_storage</code> folder. 
 
 **Windows SmartScreen Warning**
 - When you open the app for the first time, Windows might say: "Windows protected your PC"
