@@ -5,7 +5,7 @@
 ### A lightweight Bandcamp Player for Windows 10/11.
 
 ### Preview Bandcamp releases quickly and conveniently before purchasing.
-
+<br>
 </div>
 <div align="center">
 
