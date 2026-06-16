@@ -36,7 +36,8 @@
 
 ## Key Features
 
-**1. Minimal design** - that stays out of your way with 3 modes to suit your style:
+**1. Minimal design**
+that stays out of your way with 3 modes to suit your style:
   * **Regular Mode** - main window that can be rolled up into Mini or Micro modes to save screen space.
   * **Nano Mode** - An ultra-compact dockable player that can snap to the top or bottom of your screen and auto-hide (à la Winamp); and
   * **Image Viewer Mode** - a lightbox-style showcase (great if you have a second monitor). Zoom and pan artwork, go fullscreen, and enjoy visual effects.  
