@@ -32,15 +32,18 @@
 
 * **Minimal design** - that stays out of your way with 3 modes to suit your style:
   * **Regular Mode** - main window that can be rolled up into Mini or Micro modes to save screen space.
-  * **Nano Mode** - An ultra-compact dockable player that can snap to the top or bottom of your screen and auto-hide (à la Winamp); and
+  * **Nano Mode** - An ultra-compact, auto-hiding player inspired by classic desktop music apps like Winamp.
   * **Image Viewer Mode** - a lightbox-style showcase (great if you have a second monitor). Zoom and pan artwork, go fullscreen, and enjoy visual effects.  
-* **Volume Control** - Adjustable volume!
+* **Volume Control** - Adjustable volume controls.
 * **Info Popups** - Use the info buttons next to albums and tracks to view Album, artist, track, and supporter information directly from the player.
 * **Playlist Management** - Easily create and manage URLs and Save/Load separate lists.
-* **Import URLs** - Easily Load Artist Discographies, Similar Artist or Import Collections. 
+* **Import URLs** - Easily import artist discographies, similar artists, and Bandcamp collections.
 * **Shuffle & Repeat** - Multiple playback modes for varied listening.
 * **App Themes** - Choose from Light, Dark, Album or Custom!
-  * **Album Themes** - loads color palette from each URL for a unique look that matches the artists intent. Palettes can be saved and edited - with a Prefer Saved option to override the default palette! 
+  * **Album Themes** - Automatically extract colour palettes from each URL for a unique look that matches the artist's intent. Palettes can be saved and edited - with a _Prefer Saved_ option to use your own custom palettes when available. 
+
+
+  
   * **Custom Themes** - Save an album theme you like or create your own with built in Theme editor!
 
 <div align="center"><img width="583" alt="Album Themes" src="https://github.com/user-attachments/assets/0a8959b6-0bc9-4ca0-b5f4-78ec3f8e13f9" /></div>
@@ -177,7 +180,7 @@ Out of interest here is a screenshot from an early prototype of the current play
 _Early V1 Prototype that presented the bandcamp mobile webview directly_
 
 
-## Legal & Ethical Use
+## Legal Information
 
 Beni's Bandcamp Player is free proprietary software distributed as compiled releases only. Source code is not publicly distributed. GitHub is used for releases, issue tracking, and documentation. For complete terms, see the included EULA.txt.
 
