@@ -45,17 +45,6 @@
   * **Album Themes** - loads color palette from each URL for a unique look that matches the artists intent. Palettes can be saved and edited - with a Prefer Saved option to override the default palette! 
   * **Custom Themes** - Save an album theme you like or create your own with built in Theme editor!
 
-### Compared to other Bandcamp apps
-
-| | Beni's Bandcamp Player | kamp | eremef's BETA player |
-|---|---|---|---|
-| **Best for** | Compact streaming & discovery | Full local music library | Owned collection hub |
-| **Any Bandcamp URL** | Yes | Limited (library-focused) | Mostly your purchases |
-| **Compact / Nano modes** | Yes | No | Mini player only |
-| **Offline playback** | No (by design) | Yes | Yes |
-| **Mobile / Chromecast** | No | No | Yes |
-| **Platform** | Windows 10/11 | Cross-platform | Multi-platform (beta) |
-
 <div align="center"><img width="583" alt="Album Themes" src="https://github.com/user-attachments/assets/0a8959b6-0bc9-4ca0-b5f4-78ec3f8e13f9" /></div>
  
 * **Account Menu** - Login to Bandcamp securely to enable **Follow Artist** and **Wishlist Album** features directly from the Apps Fan Account Menu and unlock unlimited streaming of albums you've purchased with a fancy icon and thank you messages. 
