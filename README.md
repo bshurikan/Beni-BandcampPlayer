@@ -16,7 +16,7 @@
 [Key Features](#key-features) &nbsp;&middot;&nbsp; [Quick Start](#quick-start) &nbsp;&middot;&nbsp; [Troubleshooting](#troubleshooting) &nbsp;&middot;&nbsp; [Credits](#credits--inspiration) &nbsp;&middot;&nbsp; [Disclaimer](#legal--ethical-use)
 </div>
 
->**Note:** This app plays Bandcamp’s free 128kbps streams - support the artists you love to get full-quality downloads for your favorite music player like MusicBee, foobar2000, VLC++.
+>**Note:** This app plays Bandcamp’s free 128kbps streams, listening limits may apply - support the artists you love to get full-quality downloads for your favorite music player like MusicBee, foobar2000, VLC++.
 
 <br>
 
