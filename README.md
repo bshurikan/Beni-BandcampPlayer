@@ -131,15 +131,16 @@ For true audio-reactive visualizations, please support the artist by purchasing 
 **Please Note**
 - Documentation is still improving
 - This app has received a considerable amount of testing so it should be pretty stable but you may still encounter bugs, please feel free to report any issues or suggestions. 
-<br>
+
 Issues can usually be resolved by loading another url, restarting the app, or if you're really stuck: close the app and rename or delete <code>settings.json</code> and delete the <code>\Backups</code> and <code>\webengine_storage</code> folders. 
 
-**Windows SmartScreen Warning**
-> When you open the app for the first time, Windows might say: "Windows protected your PC"
-> This happens because the app isn't code-signed. Code-signing certificates can be expensive for independently developed freeware applications.
-> **To continue:** Click "More info" and "Run anyway", Windows won't nag you again for the same .exe. 
+**1. Windows SmartScreen Warning**
 
-**"Player not responding or sluggish"**
+- When you open the app for the first time, Windows might say: "Windows protected your PC"
+- This happens because the app isn't code-signed. Code-signing certificates can be expensive for independently developed freeware applications.
+- **To continue:** Click "More info" and "Run anyway", Windows won't nag you again for the same .exe. 
+
+**2. Player not responding or sluggish**
 - This App requires a high speed internet connection.
 - Verify the Bandcamp URL is valid and accessible (sometimes artists remove access to an album or redirect it), check the album page to make sure its still there, remove the url and readd it. 
 - Try refreshing the URL or switching to another URL. 
@@ -147,11 +148,11 @@ Issues can usually be resolved by loading another url, restarting the app, or if
 - Antivirus software with HTTPS/SSL scanning (Kaspersky, ESET, Dr.Web, etc.) may interfere with image requests — temporarily disable these features to test. If it helps, whitelist the app and bandcamp.com.
 - Bad DNS routing can also cause slow or missing images. Switching to 1.1.1.1, 8.8.8.8, or 9.9.9.9 may help.
 
-**"Playlist not saving"**
+**3. Playlist not saving**
 - Check that the Playlists folder exists in the app directory
 - Verify write permissions for the app directory
 
-**Windows 7: Missing DLL or Failed to load Python Errors**
+**4. Windows 7: Missing DLL or Failed to load Python Errors**
 - If the app won't launch on Windows 7 and you see errors like "api-ms-win-core-path-l1-1-0.dll not found" or "Failed to load Python DLL," Windows 7 is missing a DLL required by Python 3.11+.
 - Fix it with the latest compatibility patch from nalexandru: https://github.com/nalexandru/api-ms-win-core-path-HACK/releases
 - Download the latest release and copy the DLLs to the following locations:
