@@ -16,7 +16,7 @@
 [Key Features](#key-features) &nbsp;&middot;&nbsp; [Quick Start](#quick-start) &nbsp;&middot;&nbsp; [Troubleshooting](#troubleshooting) &nbsp;&middot;&nbsp; [Credits](#credits--inspiration) &nbsp;&middot;&nbsp; [Disclaimer](#legal-information)
 </div>
 
->**Note:** This app streams Bandcamp's official 128 kbps preview streams, and Bandcamp's standard listening limits may apply. Support the artists you love to get full-quality downloads for your favourite music player, such as MusicBee, foobar2000, or VLC.
+>**Note:** This app streams Bandcamp's official 128 kbps preview streams, and Bandcamp's standard listening limits may apply. Support the artists you love to get unlimited access to full-quality downloads for your favourite music player, such as MusicBee, foobar2000, or VLC.
 
 <br>
 
