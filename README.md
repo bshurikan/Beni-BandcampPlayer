@@ -18,9 +18,6 @@
 
 >**Note:** This app plays Bandcamp’s free 128kbps streams - support the artists you love to get full-quality downloads for your favorite music player like MusicBee, foobar2000, VLC++.
 
->**Legal:** Beni's Bandcamp Player is free, proprietary software, not open source. Compiled releases only; no source distribution. See the EULA for full terms. GitHub is used for releases and issue tracking.
-
-
 <br>
 
 <img width="583" alt="main-player-interface" src="https://github.com/user-attachments/assets/0773bc16-a7a2-4b6f-b025-cda08bf1ee83" />
@@ -182,8 +179,10 @@ _Early V1 Prototype that presented the bandcamp mobile webview directly_
 
 ## Legal & Ethical Use
 
+Beni's Bandcamp Player is free proprietary software distributed as compiled releases only. Source code is not publicly distributed. GitHub is used for releases, issue tracking, and documentation. For complete terms, see the included EULA.txt.
+
 Beni's Bandcamp Player is independent third-party software and is not affiliated with, endorsed by, or sponsored by Bandcamp. All Bandcamp trademarks, content, and services remain the property of their respective owners.
 
-The application is designed to stream music through Bandcamp's official web player for personal listening and music discovery. Please respect copyright laws, Bandcamp's terms of service, and support the artists you enjoy by purchasing their music whenever possible.
+The application streams music through Bandcamp's official web player for personal listening and music discovery. Please respect copyright laws, Bandcamp's terms of service, and support the artists you enjoy by purchasing their music whenever possible.
 
 This software is provided free of charge, as-is. Because the app relies on Bandcamp's live website, future changes to Bandcamp's service may temporarily affect functionality, and ongoing compatibility cannot be guaranteed.
