@@ -180,19 +180,8 @@ _Early V1 Prototype that presented the bandcamp mobile webview directly_
 
 ## Legal & Ethical Use
 
-This application is designed for:
-* Streaming music available through Bandcamp’s official web player
-* Personal listening of content you own or have permission to access via Bandcamp
-* Creating and managing playlists for personal music discovery and preview before purchase
+Beni's Bandcamp Player is independent third-party software and is not affiliated with, endorsed by, or sponsored by Bandcamp. All Bandcamp trademarks, content, and services remain the property of their respective owners.
 
-Please respect copyright laws and Bandcamp’s terms of service. Support artists by purchasing music when possible.
+The application is designed to stream music through Bandcamp's official web player for personal listening and music discovery. Please respect copyright laws, Bandcamp's terms of service, and support the artists you enjoy by purchasing their music whenever possible.
 
-## Disclaimer
-
-Beni's Bandcamp Player is independent, third-party software and is not affiliated with, endorsed by, or sponsored by Bandcamp. All Bandcamp content, trademarks, and services remain the property of their respective owners.
-
-This software is provided free of charge, as-is, for personal use. Bandcamp may update their website or service in ways that temporarily affect the app's functionality; while the developer will endeavour to maintain compatibility, this cannot be guaranteed.
-
-Please use the app responsibly, respect Bandcamp's terms of service and applicable copyright law, and support the artists whose music you enjoy.
-
-For full terms, see the EULA.txt and THIRD_PARTY_NOTICES.txt included with the application.
+This software is provided free of charge, as-is. Because Beni relies on Bandcamp's live website, future changes to Bandcamp's service may temporarily affect functionality, and ongoing compatibility cannot be guaranteed.
