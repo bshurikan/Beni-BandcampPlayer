@@ -184,4 +184,4 @@ Beni's Bandcamp Player is independent third-party software and is not affiliated
 
 The application is designed to stream music through Bandcamp's official web player for personal listening and music discovery. Please respect copyright laws, Bandcamp's terms of service, and support the artists you enjoy by purchasing their music whenever possible.
 
-This software is provided free of charge, as-is. Because Beni relies on Bandcamp's live website, future changes to Bandcamp's service may temporarily affect functionality, and ongoing compatibility cannot be guaranteed.
+This software is provided free of charge, as-is. Because the app relies on Bandcamp's live website, future changes to Bandcamp's service may temporarily affect functionality, and ongoing compatibility cannot be guaranteed.
