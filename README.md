@@ -57,9 +57,11 @@
 
 <div align="center"><img width="583" alt="Album Themes" src="https://github.com/user-attachments/assets/0a8959b6-0bc9-4ca0-b5f4-78ec3f8e13f9" /></div>
  
-* **Account Menu** - Login to Bandcamp securely to enable **Follow Artist** and **Wishlist Album** features directly from the Apps Fan Account Menu and unlock unlimited streaming of albums you've purchased with a fancy icon and thank you messages. 
-* **Track Change Notifications** - Keep track of what you are listening to, especially helpful in Nano Mode when autohidden; adjust the notifications or turn them off in the settings. 
-* **Keyboard Shortcuts** - Full keyboard control for play, pause, next, previous, volume, and more (customizable in the settings menu). With Global Support. 
+**8. Account Menu** - Login to Bandcamp securely to enable **Follow Artist** and **Wishlist Album** features directly from the Apps Fan Account Menu and unlock unlimited streaming of albums you've purchased with a fancy icon and thank you messages. 
+
+**9. Track Change Notifications** - Keep track of what you are listening to, especially helpful in Nano Mode when autohidden; adjust the notifications or turn them off in the settings. 
+
+**10. Keyboard Shortcuts** - Full keyboard control for play, pause, next, previous, volume, and more (customizable in the settings menu). With Global Support. 
 
 ## Technology & Approach
 
