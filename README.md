@@ -205,6 +205,236 @@ For full terms, see the EULA.txt and THIRD_PARTY_NOTICES.txt included with the a
 
 
 
+Not another library app — a tiny, beautiful way to stream and discover Bandcamp.
+
+**A fast lightweight desktop player for streaming Bandcamp releases.**
+
+Beni's Bandcamp Player is a lightweight desktop companion for Bandcamp that lets you queue and enjoy Bandcamp's official streams.
+
+**Note:** Beni streams Bandcamp's official 128 kbps preview streams. Support artists by purchasing the albums you love.
+
+<div align="center">
+
+# <a href="https://github.com/bshurikan/Beni-BandcampPlayer"><img src="images/icon-title (new).png" width="32" height="32" alt="Icon"></a> Beni's Bandcamp Player
+
+### A lightweight desktop player for Bandcamp.
+### Fast, focused, and built for listening.
+
+<p>
+  Stream Bandcamp comfortably on Windows without the browser clutter.
+</p>
+
+<p>
+  <a href="https://github.com/bshurikan/Beni-BandcampPlayer/releases">
+    <img src="images/download.png" height="39">
+  </a>
+
+  <a href="https://ko-fi.com/B0B51LWFE" target="_blank">
+    <img src="images/support_me_on_kofi_beige.png" height="39">
+  </a>
+</p>
+
+**Windows 10 & 11**
+
+[Why Beni?](#why-beni)
+&nbsp;&middot;&nbsp;
+[Key Features](#key-features)
+&nbsp;&middot;&nbsp;
+[Quick Start](#quick-start)
+&nbsp;&middot;&nbsp;
+[Troubleshooting](#troubleshooting)
+&nbsp;&middot;&nbsp;
+[Credits](#credits--inspiration)
+
+</div>
+
+---
+
+Beni's Bandcamp Player is a lightweight desktop companion for Bandcamp that lets you browse, queue, and enjoy Bandcamp's official streams in a dedicated player designed for everyday listening.
+
+No downloads.
+
+No accounts required.
+
+No libraries to manage.
+
+**Just Bandcamp.**
+
+> **Note:** Beni streams Bandcamp's official 128 kbps preview streams. Support the artists you love by purchasing their music through Bandcamp.
+
+---
+
+## Download
+
+**Ready to listen?**
+
+Download the latest release and start enjoying Bandcamp in a dedicated desktop player.
+
+👉 https://github.com/bshurikan/Beni-BandcampPlayer/releases
+
+---
+
+## Why Beni?
+
+Bandcamp already works great in a browser.
+
+Beni exists for the moments when you just want to listen.
+
+- 🎵 Dedicated desktop experience designed around Bandcamp
+- 🚀 Fast startup and compact footprint
+- 📌 Multiple space-saving player modes
+- 🖼️ Beautiful fullscreen artwork experience
+- 🔒 Uses Bandcamp's own website and account system
+- ❤️ Encourages supporting artists through purchases
+
+Beni isn't trying to replace Bandcamp.
+
+It's designed to make Bandcamp more comfortable to live with.
+
+---
+
+<img width="583" alt="main-player-interface" src="https://github.com/user-attachments/assets/0773bc16-a7a2-4b6f-b025-cda08bf1ee83" />
+
+*Regular, Mini, Micro, and Nano player modes with notifications.*
+
+---
+
+## Meet Nano Mode
+
+Nano Mode is Beni's ultra-compact player inspired by classic desktop music apps like Winamp.
+
+Dock it to the top or bottom of your screen, enable auto-hide, and keep your music close without sacrificing workspace.
+
+Perfect for multitasking.
+
+---
+
+<img width="583" alt="image viewer mode" src="https://github.com/user-attachments/assets/d25f545e-f935-41eb-8144-3cc079f70173" />
+
+*Image Viewer Mode with playlist, player controls, visual effects, and fullscreen support.*
+
+<img width="583" alt="image viewer fullscreen" src="https://github.com/user-attachments/assets/9c6f6cfe-50e0-4970-9069-df4c938cc219" />
+
+*Fullscreen artwork mode designed for immersive listening sessions.*
+
+---
+
+# Key Features
+
+## Designed for Listening
+
+- Multiple player modes:
+  - Regular
+  - Mini
+  - Micro
+  - Nano
+  - Fullscreen Image Viewer
+
+- Track notifications
+
+- Global keyboard shortcuts
+
+- Shuffle and repeat playback modes
+
+- Adjustable volume controls
+
+- Optional visual effects and particle animations
+
+---
+
+## Built Around Bandcamp
+
+- Drag-and-drop Bandcamp URLs
+
+- Playlist management with save/load support
+
+- Import artist discographies
+
+- Import similar artists
+
+- Import Bandcamp collections
+
+- Album, artist, supporter, and track information popups
+
+- Secure Bandcamp login using Bandcamp's own website
+
+- Follow artists and wishlist albums directly
+
+- Unlimited streaming access for albums you've purchased
+
+---
+
+## Make It Yours
+
+- Light Theme
+
+- Dark Theme
+
+- Album Themes
+
+- Custom Themes
+
+- Built-in theme editor
+
+- Automatic colour extraction from album artwork
+
+- Save and reuse favourite palettes
+
+<div align="center">
+    <img width="583" alt="Album Themes" src="https://github.com/user-attachments/assets/0a8959b6-0bc9-4ca0-b5f4-78ec3f8e13f9" />
+</div>
+
+---
+
+## Technology & Approach
+
+Bandcamp does not currently provide a public playback API for albums, playlists, or track control.
+
+Rather than attempting to circumvent Bandcamp's systems, Beni works alongside them by loading Bandcamp's own website inside an embedded Chromium browser and enhancing the experience with a custom desktop interface.
+
+This means:
+
+- Purchasing works normally
+- Login works normally
+- Wishlisting works normally
+- Follow Artist works normally
+- Bandcamp's listening limits remain respected
+
+### Core Stack
+
+- PySide6
+- PyQt6-WebEngine
+- Qt-Painted Interface
+- QtAwesome
+
+---
+
+## Quick Start
+
+### Installation
+
+Download and run the latest installer from Releases.
+
+A desktop shortcut and Start Menu entry will be created automatically.
+
+> **Note:** Windows Defender SmartScreen may display a warning because the application is independently developed and not code-signed.
+
+---
+
+### Usage
+
+1. Drag Bandcamp URLs into the player or playlist.
+2. Double-click an album to begin listening.
+3. Use playback controls or keyboard shortcuts.
+4. Save playlists for future sessions.
+5. Switch between player modes as needed.
+6. Open Image Viewer for fullscreen artwork experiences.
+7. Explore settings to customize themes, shortcuts, and behaviour.
+
+
+
+
+
 
 
 
