@@ -30,10 +30,6 @@
 
 *The image viewer mode with player, playlist, visualizer and particles effects available.*
 
-<img width="583" alt="image viewer fullscreen" src="https://github.com/user-attachments/assets/9c6f6cfe-50e0-4970-9069-df4c938cc219" />
-
-*The image viewer interface in fullscreen mode with player, playlist, visualizer and particles effects available.*
-
 ## Key Features
 
 * **Minimal design** - that stays out of your way with 3 modes to suit your style:
