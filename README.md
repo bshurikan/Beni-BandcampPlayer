@@ -36,16 +36,16 @@
 
 ## Key Features
 
-* **Minimal design** - that stays out of your way with 3 modes to suit your style:
+**1. Minimal design** - that stays out of your way with 3 modes to suit your style:
   * **Regular Mode** - main window that can be rolled up into Mini or Micro modes to save screen space.
   * **Nano Mode** - An ultra-compact dockable player that can snap to the top or bottom of your screen and auto-hide (à la Winamp); and
   * **Image Viewer Mode** - a lightbox-style showcase (great if you have a second monitor). Zoom and pan artwork, go fullscreen, and enjoy visual effects.  
-* **Volume Control** - Adjustable volume!
-* **Info Popups** - Use the info buttons next to albums and tracks to view Album, artist, track, and supporter information directly from the player.
-* **Playlist Management** - Easily create and manage URLs and Save/Load separate lists.
-* **Import URLs** - Easily Load Artist Discographies, Similar Artist or Import Collections. 
-* **Shuffle & Repeat** - Multiple playback modes for varied listening.
-* **App Themes** - Choose from Light, Dark, Album or Custom!
+**2. Volume Control** - Adjustable volume!
+**3. Info Popups** - Use the info buttons next to albums and tracks to view Album, artist, track, and supporter information directly from the player.
+**4. Playlist Management** - Easily create and manage URLs and Save/Load separate lists.
+**5. Import URLs** - Easily Load Artist Discographies, Similar Artist or Import Collections. 
+**6. Shuffle & Repeat** - Multiple playback modes for varied listening.
+**7. App Themes** - Choose from Light, Dark, Album or Custom!
   * **Album Themes** - loads color palette from each URL for a unique look that matches the artists intent. Palettes can be saved and edited - with a Prefer Saved option to override the default palette! 
   * **Custom Themes** - Save an album theme you like or create your own with built in Theme editor!
 
