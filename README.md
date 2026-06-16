@@ -6,8 +6,6 @@
 
 ### Preview Bandcamp releases quickly and conveniently before purchasing.
 
-**Note:** This app plays Bandcamp’s free 128kbps streams - support the artists you love to get full-quality downloads for your favorite music player like MusicBee, foobar2000, VLC++.
-
 </div>
 <div align="center">
 
@@ -16,6 +14,8 @@
 </p>
 
 [Key Features](#key-features) &nbsp;&middot;&nbsp; [Quick Start](#quick-start) &nbsp;&middot;&nbsp; [Troubleshooting](#troubleshooting) &nbsp;&middot;&nbsp; [Credits](#credits--inspiration) &nbsp;&middot;&nbsp; [Disclaimer](#legal--ethical-use)
+
+**Note:** This app plays Bandcamp’s free 128kbps streams - support the artists you love to get full-quality downloads for your favorite music player like MusicBee, foobar2000, VLC++.
 
 >**Legal:** Beni's Bandcamp Player is free, proprietary software, not open source. Compiled releases only; no source distribution. See the EULA for full terms. GitHub is used for releases and issue tracking.
 
