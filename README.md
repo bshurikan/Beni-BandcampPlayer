@@ -52,26 +52,11 @@
 * **Track Change Notifications** - Keep track of what you are listening to, especially helpful in Nano Mode when autohidden; adjust the notifications or turn them off in the settings. 
 * **Keyboard Shortcuts** - Full keyboard control for play, pause, next, previous, volume, and more (customizable in the settings menu). With Global Support. 
 
-## Technology & Approach
-
-Bandcamp doesn’t currently provide a public API for music playback, playlists, or track data (its official APIs are limited to sales and merchandise for artists and labels). 
-
-Without a public playback API, Beni's Bandcamp Player instead relies on Bandcamp's native web pages, loading them in an embedded Chromium-based browser and providing a custom interface with added features such as enhanced playback controls, playlists, window modes, keyboard shortcuts, and more.
-
-**Note:** Because the app loads the live Bandcamp website, account features like purchasing, wishlisting, and login work natively, and Bandcamp's standard listening limits apply.
-
-### Core Stack
-
-- **PySide6** – Cross-platform desktop framework for window management
-- **PyQt6-WebEngine** – Embedded Chromium browser used to load Bandcamp’s site with full DOM access
-- **Qt-Painted Interface** - Fully customizable Qt interface used for reliability and extensibility
-- **QtAwesome** – FontAwesome icons for consistency across platforms
-  
 ## Quick Start
 
 **Installation**
 
-Download and run the [Latest Setup.exe](https://github.com/bshurikan/Beni-BandcampPlayer/releases) to install the app, then use the desktop or start menu shortcut to start it.
+Download and run the [Latest Installer](https://github.com/bshurikan/Beni-BandcampPlayer/releases) to install the app, then use the desktop or start menu shortcut to start it.
 
 **Note:** You may see a Windows Defender SmartScreen Warning, see [Troubleshooting](#troubleshooting) for more information. 
 
@@ -122,6 +107,21 @@ For true audio-reactive visualizations, please support the artist by purchasing 
 * **Expand/Collapse Playlist** - Ctrl + Shift + Alt + P
 * **Cycle App Mode** - Ctrl + Alt + M
 * And more... (see Settings > Keyboard Shortcuts)
+
+## Technology & Approach
+
+Bandcamp doesn’t currently provide a public API for music playback, playlists, or track data (its official APIs are limited to sales and merchandise for artists and labels). 
+
+Without a public playback API, Beni's Bandcamp Player instead relies on Bandcamp's native web pages, loading them in an embedded Chromium-based browser and providing a custom interface with added features such as enhanced playback controls, playlists, window modes, keyboard shortcuts, and more.
+
+**Note:** Because the app loads the live Bandcamp website, account features like purchasing, wishlisting, and login work natively, and Bandcamp's standard listening limits apply.
+
+### Core Stack
+
+- **PySide6** – Cross-platform desktop framework for window management
+- **PyQt6-WebEngine** – Embedded Chromium browser used to load Bandcamp’s site with full DOM access
+- **Qt-Painted Interface** - Fully customizable Qt interface used for reliability and extensibility
+- **QtAwesome** – FontAwesome icons for consistency across platforms
 
 ## Troubleshooting
 
