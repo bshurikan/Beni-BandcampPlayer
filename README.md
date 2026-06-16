@@ -41,8 +41,7 @@
 * **Shuffle & Repeat** - Multiple playback modes for varied listening.
 * **App Themes** - Choose from Light, Dark, Album or Custom!
   * **Album Themes** - Automatically extract colour palettes from each URL for a unique look that matches the artist's intent. Palettes can be saved and edited - with a _Prefer Saved_ option to use your own custom palettes when available. 
-
-  * **Custom Themes** - Save an album theme you like or create your own with built-in Theme editor!
+* **Custom Themes** - Save an album theme you like or create your own with built-in Theme editor!
 
 <div align="center"><img width="583" alt="Album Themes" src="https://github.com/user-attachments/assets/0a8959b6-0bc9-4ca0-b5f4-78ec3f8e13f9" /></div>
  
