@@ -2,8 +2,6 @@
 
 # <a href="https://github.com/bshurikan/Beni-BandcampPlayer"><img src="images/icon-title (new).png" width="32" height="32" alt="Icon"></a> Beni's Bandcamp Player
 
-</div>
-<div align="center">
 ### A lightweight desktop player for Bandcamp.
 ### Fast, focused, and built for listening on Windows 10/11
 <p>
