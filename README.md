@@ -28,6 +28,10 @@
 
 *The image viewer mode with player, playlist, visualizer and particles effects available.*
 
+**Watch a Quick Overview of the App and its features: **
+
+<img width="583" alt="Overview Video" src="[https://github.com/user-attachments/assets/2391a2f1-58ef-4de7-bcfe-b5ee58eaaa6b](https://www.youtube.com/watch?v=Twl_zGbAwyY)" />
+
 ## Key Features
 
 * **Minimal design** - that stays out of your way with 3 modes to suit your style:
