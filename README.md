@@ -79,7 +79,7 @@ Download and run the [Latest Installer](https://github.com/bshurikan/Beni-Bandca
 
 For true audio-reactive visualizations, please support the artist by purchasing and downloading the music from Bandcamp and playing it in a dedicated offline music player such as MusicBee, foobar2000, or VLC.
 
-<img width="444" alt="image viewer options" src="https://github.com/user-attachments/assets/64208e4f-f100-4d0a-bed1-65e9762f7447" />
+<img width="461" alt="image viewer options" src="https://github.com/user-attachments/assets/076ecfa1-85d5-4ec9-8151-9071dcf2f68a" />
 
 
 ## Shuffle & Repeat Modes  <img alt="shuffle-repeat" src="images/shuffle-repeat.png" />
