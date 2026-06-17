@@ -59,7 +59,7 @@ Download and run the [Latest Installer](https://github.com/bshurikan/Beni-Bandca
 
 ## Usage
 
-### Watch Video Overview 
+**Video Overview**
 
 <a href="https://www.youtube.com/watch?v=Twl_zGbAwyY"><img width="583" alt="YT Thumb" src="https://github.com/user-attachments/assets/bdf1102d-6f26-4fec-b907-c53ed24419f7" target="_blank" /></a>  
 
