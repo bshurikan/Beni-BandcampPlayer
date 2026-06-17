@@ -33,7 +33,7 @@
 <p><a href="https://www.youtube.com/watch?v=Twl_zGbAwyY"><img src="<img width="583" alt="Overview Video" src="https://github.com/user-attachments/assets/bdf1102d-6f26-4fec-b907-c53ed24419f7"></a>  
 </p>
 
-<img width="722" height="406" alt="YT Thumb" src="https://github.com/user-attachments/assets/bdf1102d-6f26-4fec-b907-c53ed24419f7" />
+<a href="https://www.youtube.com/watch?v=Twl_zGbAwyY"><img width="722" height="406" alt="YT Thumb" src="https://github.com/user-attachments/assets/bdf1102d-6f26-4fec-b907-c53ed24419f7" /></a>  
 
 
 ## Key Features
