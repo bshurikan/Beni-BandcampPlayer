@@ -28,11 +28,6 @@
 
 *The image viewer mode with player, playlist, visualizer and particles effects available.*
 
-## Video Overview 
-
-<a href="https://www.youtube.com/watch?v=Twl_zGbAwyY"><img width="583" alt="YT Thumb" src="https://github.com/user-attachments/assets/bdf1102d-6f26-4fec-b907-c53ed24419f7" target="_blank" /></a>  
-
-
 ## Key Features
 
 * **Minimal design** - that stays out of your way with 3 modes to suit your style:
@@ -63,6 +58,10 @@ Download and run the [Latest Installer](https://github.com/bshurikan/Beni-Bandca
 **Note:** You may see a Windows Defender SmartScreen Warning, see [Troubleshooting](#troubleshooting) for more information. 
 
 ## Usage
+
+### Watch Video Overview 
+
+<a href="https://www.youtube.com/watch?v=Twl_zGbAwyY"><img width="583" alt="YT Thumb" src="https://github.com/user-attachments/assets/bdf1102d-6f26-4fec-b907-c53ed24419f7" target="_blank" /></a>  
 
 1. **Add URLs**: Drag and drop Bandcamp URLs into the main window (to load it right away) or into the playlist to create a queue (CTRL+V, Right click and select Paste URL also work).
 3. **Play Music**: Double click on an album in the playlist to load the url and start playing.
