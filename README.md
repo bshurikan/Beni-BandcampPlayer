@@ -28,7 +28,7 @@
 
 *The image viewer mode with player, playlist, visualizer and particles effects available.*
 
-**Watch a Quick Overview of the App and its features: **
+## Video Overview 
 
 <a href="https://www.youtube.com/watch?v=Twl_zGbAwyY"><img width="583" alt="YT Thumb" src="https://github.com/user-attachments/assets/bdf1102d-6f26-4fec-b907-c53ed24419f7" target="_blank" /></a>  
 
