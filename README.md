@@ -30,7 +30,11 @@
 
 **Watch a Quick Overview of the App and its features: **
 
-<img width="583" alt="Overview Video" src="[https://github.com/user-attachments/assets/2391a2f1-58ef-4de7-bcfe-b5ee58eaaa6b](https://www.youtube.com/watch?v=Twl_zGbAwyY)" />
+<p><a href="https://www.youtube.com/watch?v=Twl_zGbAwyY"><img src="<img width="583" alt="Overview Video" src="https://github.com/user-attachments/assets/bdf1102d-6f26-4fec-b907-c53ed24419f7"></a>  
+</p>
+
+<img width="722" height="406" alt="YT Thumb" src="https://github.com/user-attachments/assets/bdf1102d-6f26-4fec-b907-c53ed24419f7" />
+
 
 ## Key Features
 
