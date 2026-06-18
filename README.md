@@ -149,15 +149,6 @@ Without a public playback API, Beni's Bandcamp Player instead relies on Bandcamp
 - Check that the Playlists folder exists in the app directory
 - Verify write permissions for the app directory
 
-**5. Windows 7: Missing DLL or Failed to load Python Errors:**
-- If the app won't launch on Windows 7 and you see errors like "api-ms-win-core-path-l1-1-0.dll not found" or "Failed to load Python DLL," Windows 7 is missing a DLL required by Python 3.11+.
-- Fix it with the latest compatibility patch from nalexandru: https://github.com/nalexandru/api-ms-win-core-path-HACK/releases
-- Download the latest release and copy the DLLs to the following locations:
-  - x86 → C:\Windows\SysWOW64
-  - x64 → C:\Windows\System32 (Admin rights may be needed)
-- Launch the app!
-- Thanks to @alabx for this [fix](https://github.com/kameryn1811/Bandcamp-Downloader/issues/6)!
-
 ## Credits & Inspiration
 
 **A Note on the Name**<br>
