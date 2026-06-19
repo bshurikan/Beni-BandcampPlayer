@@ -1,21 +1,22 @@
 {
-  "version": "4.0.0",
-  "release_date": "2026-06-16",
-  "release_url": "https://github.com/bshurikan/Beni-BandcampPlayer/releases/tag/v4.0.0",
-  "update_package_url": "https://github.com/bshurikan/Beni-BandcampPlayer/releases/download/Test/update-test.zip",
+  "version": "4.0.1",
+  "release_date": "2026-06-19",
+  "release_url": "https://github.com/bshurikan/Beni-BandcampPlayer/releases/tag/v4.0.1",
+  "update_package_url": "https://github.com/bshurikan/Beni-BandcampPlayer/releases/download/v4.0.1/BenisBandcampPlayer-Update-4.0.1.zip",
   "update_package_sha256": "",
   "notes": [
-    "• Crash recovery — unclean exit (End Task/freeze) → next launch offers reset settings, copy report, report on GitHub. Normal quit after a crash popup → no nag.",
-	"• Playback engine — queue/advance/shuffle/repeat/autoplay driven more from Python; continuous playback, repeat-all, shuffle and queue end fixes",
-	"• Image Viewer viz — determined simulated-only is the only real option for streaming audio; improved procedural motion and progress ring",
-	"• Particle FX — bubbles improved, snow, rain and blizzard wait until viewport edge to despawn",
-	"• Playlist — drag URL QOL improvements - custom placement, drop line + scroll while dragging, album/tracks stay in view. Item Selection improved",
-	"• UI polish — volume/theme contrast",
-	"• Fan login — smarter restore; theme correct after login.",
-	"• Startup — faster/cleaner boot; single-instance on by default."
+	  "Mixed, Mastered, and Polished - Faster, lighter background metadata loading (shared Tralbum API + caching). Large playlists now do less redundant network work.",
+	  "• Credits - Thanks to tobias-d (github.com/tobias-d) and their bandcamp-player-extension project for API-first metadata insights.",
+	  "• Faster loading - Tracklists and titles now load almost instantly improving perceived load times and notification accuracy.",
+	  "• Faster imports - Custom domain (vanity URL) imports are significantly quicker.",
+	  "• Smarter playlists - Playlist entries' Album and artist metadata now upgrades during thumbnail fetch not just on individiual URL load",
+	  "• Smoother notifications - Reduce flicker option, in-place toast updates, and seamless artwork without pop-in.",
+	  "• Improved menus - Load Album List now reopens automatically after edits (rename/delete) for faster batch changes.",
+	  "• Better visuals - Image Viewer progress animation now matches Regular Mode; improved cover art selection and cache validation.",
+	  "• More reliable loading - Thumbnail retrieval hardened with retries; fewer stalls on large playlists and imports.",
+	  "• Faster bulk actions - Large playlist deletes now batch saves, keeping the app responsive.",
+	  "• Smoother themes - Prevents dark flash between album transitions by holding previous palette until next loads.",
+	  "• Better playback state - Pre-release albums now show a clean 'Nothing to Play Yet' state instead of failed autoplay.",
+	  "• Cleanup - Reduced unnecessary console and error log noise."
   ]
 }
-
-
-
-
