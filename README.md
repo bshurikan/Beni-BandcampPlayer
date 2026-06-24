@@ -37,6 +37,7 @@
 * **Volume Control** - Adjustable volume controls.
 * **Info Popups** - Use the info buttons next to albums and tracks to view Album, artist, track, and supporter information directly from the player.
 * **Playlist Management** - Easily create and manage URLs and Save/Load separate lists.
+* **Search and Filters** - Quickly search and filter your current session and saved playlists. 
 * **Import URLs** - Easily import artist discographies, similar artists, and Bandcamp collections.
 * **Shuffle & Repeat** - Multiple playback modes for varied listening.
 * **App Themes** - Choose from Light, Dark, Album or Custom!
