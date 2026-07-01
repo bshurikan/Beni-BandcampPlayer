@@ -38,6 +38,9 @@
 * **Info Popups** - Use the info buttons next to albums and tracks to view Album, artist, track, and supporter information directly from the player.
 * **Playlist Management** - Easily create and manage URLs and Save/Load separate lists.
 * **Search and Filters** - Quickly search and filter your current session and saved playlists. 
+
+<img width="438" height="408" alt="image" src="https://github.com/user-attachments/assets/278bca98-f8a6-4214-b013-d38e279ec473" />
+
 * **Import URLs** - Easily import artist discographies, similar artists, and Bandcamp collections.
 * **Linked Collections** - Create linked collections and wishlists that can be easily synced with Bandcamp.
 
