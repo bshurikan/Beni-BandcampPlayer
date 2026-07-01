@@ -39,7 +39,10 @@
 * **Playlist Management** - Easily create and manage URLs and Save/Load separate lists.
 * **Search and Filters** - Quickly search and filter your current session and saved playlists. 
 * **Import URLs** - Easily import artist discographies, similar artists, and Bandcamp collections.
-* **Linked Collections** - Create linked collections and wishlists that can be easily synced with Bandcamp. 
+* **Linked Collections** - Create linked collections and wishlists that can be easily synced with Bandcamp.
+
+<img width="311" height="178" alt="image" src="https://github.com/user-attachments/assets/bfd2151b-3f02-4f9e-a028-467f20d65223" />
+
 * **Shuffle & Repeat** - Multiple playback modes for varied listening.
 * **App Themes** - Choose from Light, Dark, Album or Custom!
   * **Album Themes** - Automatically extract colour palettes from each URL for a unique look that matches the artist's intent. Palettes can be saved and edited - with a _Prefer Saved_ option to use your own custom palettes when available. 
