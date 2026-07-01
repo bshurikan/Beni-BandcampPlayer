@@ -20,11 +20,11 @@
 
 <br>
 
-<img width="583" alt="main-player-interface" src="https://github.com/user-attachments/assets/0773bc16-a7a2-4b6f-b025-cda08bf1ee83" />
+<img width="583" alt="main-player-interface" src="https://github.com/user-attachments/assets/915057ef-7c2a-4417-8053-34c1fada30e9" />
 
 *The main player regular/mini/micro/nano modes and notification.*
 
-<img width="583" alt="image viewer mode" src="https://github.com/user-attachments/assets/d25f545e-f935-41eb-8144-3cc079f70173" />
+<img width="583" alt="image viewer mode" src="https://github.com/user-attachments/assets/c85fd4da-3f3d-4e0a-8dc9-2a8e070429b0" />
 
 *The image viewer mode with player, playlist, visualizer and particles effects available.*
 
@@ -39,6 +39,7 @@
 * **Playlist Management** - Easily create and manage URLs and Save/Load separate lists.
 * **Search and Filters** - Quickly search and filter your current session and saved playlists. 
 * **Import URLs** - Easily import artist discographies, similar artists, and Bandcamp collections.
+* **Linked Collections** - Create linked collections and wishlists that can be easily synced with Bandcamp. 
 * **Shuffle & Repeat** - Multiple playback modes for varied listening.
 * **App Themes** - Choose from Light, Dark, Album or Custom!
   * **Album Themes** - Automatically extract colour palettes from each URL for a unique look that matches the artist's intent. Palettes can be saved and edited - with a _Prefer Saved_ option to use your own custom palettes when available. 
