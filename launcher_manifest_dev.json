@@ -5,8 +5,12 @@
   "update_package_url": "",
   "update_package_sha256": "",
   "notes": [
-    "DEV CHANNEL — Not used by public installs. Set use_dev_update_manifest to true in a dedicated test install's settings.json only.",
-    "Point update_package_url at a separate pre-release / -dev ZIP asset before testing; leave launcher_manifest.json untouched until public release.",
-    "Bump version above the test install __version__ so the update dialog appears."
+		"Stage Presence - A major Image Viewer overhaul with dramatically smoother performance, new shader presets, and visual effects.",
+		"NEW Dual-Process Image Viewer - UI and rendering now run independently for smoother visuals and improved responsiveness.",
+		"NEW Shader Presets - 12 new presets including Flame, Lava Lamp, Rainbow, Plasma Vortex, Geometry Dive, and more.",
+		"NEW Effect Cycling - Automatically cycle shaders and particle effects by timer, track, or URL. Effects can also use your theme's accent color.",
+		"Quality of Life - Optional silent enrichment, cleaner search status, and a Nano playlist layout fix.",
+		"Thanks - Special thanks to alabx for testing, feedback, and issue reporting.",
+		"Note: Manual update required - Please download the latest Setup and reinstall. Your settings and playlists will be preserved. Future updates will work normally."
   ]
 }
