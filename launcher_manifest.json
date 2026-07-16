@@ -1,15 +1,21 @@
 {
-  "version": "4.1.1",
-  "release_date": "2026-07-16",
-  "release_url": "https://github.com/bshurikan/Beni-BandcampPlayer/releases/tag/v4.1.1",
-  "update_package_url": "https://github.com/bshurikan/Beni-BandcampPlayer/releases/download/v4.1.1/BenisBandcampPlayer-Update-4.1.1.zip",
+  "version": "4.1.0",
+  "release_date": "2026-07-01",
+  "release_url": "https://github.com/bshurikan/Beni-BandcampPlayer/releases/tag/v4.1.0",
+  "update_package_url": "https://github.com/bshurikan/Beni-BandcampPlayer/releases/download/v4.1.0/BenisBandcampPlayer-Update-4.1.0.zip",
   "update_package_sha256": "",
   "notes": [
-	  "Stage Presence - A major Image Viewer overhaul with dramatically smoother performance, new shader presets, and visual effects.",
-	  "NEW Dual-Process Image Viewer - UI and rendering now run independently for silky-smooth visuals and responsiveness.",
-	  "NEW Shader Presets - 12 new presets including Flame, Lava Lamp, Rainbow, Plasma Vortex, Geometry Dive, and more.",
-	  "NEW Effect Cycling - Automatically cycle shaders and particle effects by timer, track, or URL. Effects can also use your theme's accent color.",
-	  "Quality of Life - Optional silent enrichment, cleaner search status, and a Nano playlist layout fix.",
-	  "Thanks - Special thanks to alabx for testing, feedback, and issue reporting."
+	  "Crate Digging Edition - Search, filters, metadata enrichment, performance profiles, safe mode, and quality-of-life improvements throughout the player.",
+	  "NEW Playlist Search - Quickly search the current playlist or your entire library from the Albums and Tracks tabs.",
+	  "NEW Filters - Filter by artist, year, tags, albums, and lists to find music faster.",
+	  "NEW Enrich Lists - Upgrade older playlists and queues with searchable metadata. New additions are enriched automatically.",	  
+	  "NEW Performance Profiles - Choose between Battery Saver, Balanced, and Full Quality modes.",
+	  "NEW Safe Mode - Launch with reduced compatibility settings if the app has trouble starting.",
+	  "Improved Jump List - Added search, drag-and-drop reordering, and a full context menu.",
+	  "Smarter Restarts - The app can now restart itself after applying settings that require it.",
+	  "Faster Navigation - Quicker fan menu updates, faster Nano startup, smoother Image Viewer entry, and instant Undo/Redo.",
+	  "Smoother Experience - Improved startup/shutdown flow, cleaner URL transitions, and more seamless login/logout handling.",
+	  "Better Reliability - Stronger login persistence, improved metadata handling, and numerous bug fixes.",
+	  "Thanks - Special thanks to alabx and yetzdfmniaak for testing, feedback, and issue reporting."
   ]
 }
