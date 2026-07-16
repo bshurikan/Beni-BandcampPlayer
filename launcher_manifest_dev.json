@@ -1,0 +1,12 @@
+{
+  "version": "4.1.1",
+  "release_date": "2026-07-16",
+  "release_url": "https://github.com/bshurikan/Beni-BandcampPlayer/releases/tag/v4.1.1",
+  "update_package_url": "https://github.com/bshurikan/Beni-BandcampPlayer/releases/download/v4.1.1/BenisBandcampPlayer-Update-4.1.1.zip",
+  "update_package_sha256": "",
+  "notes": [
+    "DEV CHANNEL — Not used by public installs. Set use_dev_update_manifest to true in a dedicated test install's settings.json only.",
+    "Point update_package_url at a separate pre-release / -dev ZIP asset before testing; leave launcher_manifest.json untouched until public release.",
+    "Bump version above the test install __version__ so the update dialog appears."
+  ]
+}
