@@ -5,7 +5,7 @@
   "update_package_url": "",
   "update_package_sha256": "",
   "notes": [
-		"Important: Manual update required for this version - Please download the latest Setup and reinstall. Your settings and playlists will be preserved. Future updates will work normally."
+		"Important: Manual update required for this version - Please download the latest Setup and reinstall. Your settings and playlists will be preserved. Future updates will work normally.",
 		"Stage Presence - A major Image Viewer overhaul with dramatically smoother performance, new shader presets, and visual effects.",
 		"NEW Dual-Process Image Viewer - UI and rendering now run independently for smoother visuals and improved responsiveness.",
 		"NEW Shader Presets - 12 new presets including Flame, Lava Lamp, Rainbow, Plasma Vortex, Geometry Dive, and more.",
