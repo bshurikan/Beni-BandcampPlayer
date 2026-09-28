@@ -1,6 +1,6 @@
 <div align="center">
 
-# <a href="https://github.com/bshurikan/Beni-BandcampPlayer"><img src="images/icon-title (new).png" width="32" height="32" alt="Icon"></a> Beni's Bandcamp Player
+# <a href="https://github.com/bshurikan/Beni-BandcampPlayer"><img src="images/icon-title (new).png" width="32" height="32" alt=""></a> Beni's Bandcamp Player
 
 ### A lightweight Bandcamp Player for Windows 10/11.
 
