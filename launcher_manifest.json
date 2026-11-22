@@ -5,13 +5,14 @@
   "update_package_url": "",
   "update_package_sha256": "",
   "notes": [
-		"Important: Manual update required for this version - Please download the latest Setup and reinstall (or apply the update manually by extracting the portable/update zip to the app root). Your settings and playlists will be preserved. Future smaller updates can use the in-app updater again.",
-		"Native Playback - Albums play without embedding Bandcamp's page player. Faster startup, less RAM, and a smoother desktop feel.",
-		"Sign-In Only Browser - WebEngine opens only for Bandcamp login; wishlist, follow, and account state use lightweight HTTP with a secure Windows session file.",
-		"Silky Loading Spinner - Startup, URL loads, shutdown, and Settings theme Applying stay smooth while the main UI is busy.",
-		"Album Theme from Cover Art - Palette comes from the cover (Dark/Light adapt) because Bandcamp often blocks page-palette crawls; looks great in practice.",
-		"Design Refresh - Softer controls, clearer now-playing rows, refined progress knob, and album-theme chrome that follows your cover art.",
-		"Quality of Life - Jump lists center the current item, progress focus ring behaves for keyboard nav, and legacy webview-only Advanced options are hidden in native mode.",
-		"Thanks - Special thanks to everyone who tested and reported issues on the 4.1 line."
+		"A complete overhaul delivering faster playback, a lighter footprint, and a smoother experience than ever before.",
+		"Important: Manual update required - Due to significant architectural changes, please download the latest Setup and reinstall, or extract the Portable/Update ZIP to the app root. Your settings, playlists, and library will be preserved. Future updates can use the in-app updater again.",
+		"Native Playback - Albums now play through a native playback engine instead of embedding Bandcamp's page player. Enjoy faster startup, reduced memory usage, and a much more responsive experience.",
+		"Lightweight Bandcamp Integration - WebEngine is now reserved exclusively for Bandcamp sign-in. Wishlist, follow, and account-state operations use lightweight HTTP requests with a Windows session file.",
+		"Silky-Smooth Loading Spinner - A dedicated spinner process keeps animations fluid during startup, URL loading, shutdown, and Settings theme application, even when the main UI is busy.",
+		"Album Themes from Cover Art - Album themes now generate colours directly from the cover art, bypassing Bandcamp's increasingly restrictive page-palette extraction. Includes Dark and Light adaptation options.",
+		"UI & Design Refresh - Refined controls, clearer now-playing rows, softer styling, an improved progress knob, and updated album-themed window chrome.",
+		"Quality of Life - Improved startup and shutdown, streamlined Advanced settings, and various refinements to login/logout handling and loading overlays.",
+		"Thanks - Special thanks to everyone who tested early builds, reported bugs, and provided feedback throughout development. Your contributions helped make this release possible!"
   ]
 }
