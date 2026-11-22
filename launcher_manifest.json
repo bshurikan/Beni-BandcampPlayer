@@ -1,16 +1,17 @@
 {
-  "version": "4.1.1",
-  "release_date": "2026-07-16",
-  "release_url": "https://github.com/bshurikan/Beni-BandcampPlayer/releases/tag/v4.1.1",
+  "version": "4.2.0",
+  "release_date": "2026-11-22",
+  "release_url": "https://github.com/bshurikan/Beni-BandcampPlayer/releases/tag/v4.2.0",
   "update_package_url": "",
   "update_package_sha256": "",
   "notes": [
-		"Important: Manual update required for this version - Please download the latest Setup and reinstall (or apply the update manually by extracting the update.zip to the app root). Your settings and playlists will be preserved. Future updates will work normally.",
-		"Stage Presence - A major Image Viewer overhaul with dramatically smoother performance, new shader presets, and visual effects.",
-		"NEW Dual-Process Image Viewer - UI and rendering now run independently for smoother visuals and improved responsiveness.",
-		"NEW Shader Presets - 12 new presets including Flame, Lava Lamp, Rainbow, Plasma Vortex, Geometry Dive, and more.",
-		"NEW Effect Cycling - Automatically cycle shaders and particle effects by timer, track, or URL. Effects can also use your theme's accent color.",
-		"Quality of Life - Optional silent enrichment, cleaner search status, and a Nano playlist layout fix.",
-		"Thanks - Special thanks to alabx for testing, feedback, and issue reporting."	
+		"Important: Manual update required for this version - Please download the latest Setup and reinstall (or apply the update manually by extracting the portable/update zip to the app root). Your settings and playlists will be preserved. Future smaller updates can use the in-app updater again.",
+		"Native Playback - Albums play without embedding Bandcamp's page player. Faster startup, less RAM, and a smoother desktop feel.",
+		"Sign-In Only Browser - WebEngine opens only for Bandcamp login; wishlist, follow, and account state use lightweight HTTP with a secure Windows session file.",
+		"Silky Loading Spinner - Startup, URL loads, shutdown, and Settings theme Applying stay smooth while the main UI is busy.",
+		"Album Theme from Cover Art - Palette comes from the cover (Dark/Light adapt) because Bandcamp often blocks page-palette crawls; looks great in practice.",
+		"Design Refresh - Softer controls, clearer now-playing rows, refined progress knob, and album-theme chrome that follows your cover art.",
+		"Quality of Life - Jump lists center the current item, progress focus ring behaves for keyboard nav, and legacy webview-only Advanced options are hidden in native mode.",
+		"Thanks - Special thanks to everyone who tested and reported issues on the 4.1 line."
   ]
 }
